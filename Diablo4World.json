@@ -1,0 +1,6730 @@
+[
+  {
+    "SNO": 1779988,
+    "FileName": "World_BSK_Hell",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Burning Hells: Realm of Hatred"
+  },
+  {
+    "SNO": 2166289,
+    "FileName": "World_Boss_Kehj_Belial",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Palace of the Deceiver"
+  },
+  {
+    "SNO": 2166289,
+    "FileName": "World_Boss_Kehj_Belial",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "There were glories here once, but now only agonies await."
+  },
+  {
+    "SNO": 2166289,
+    "FileName": "World_Boss_Kehj_Belial",
+    "Index": 2,
+    "KeyHash": 2620792532,
+    "Key": "DropDesc",
+    "Translation": "Defeating this Lair Boss grants access to {c_important}Belial's Hoard{/c}, which offers a definable reward pool that mimics any desired {icon:Marker_Dungeon_BossLair,1.8}{c_highlight}Lair Boss{/c} rewards at an enhanced value."
+  },
+  {
+    "SNO": 2166289,
+    "FileName": "World_Boss_Kehj_Belial",
+    "Index": 3,
+    "KeyHash": 3340474836,
+    "Key": "NameDetail",
+    "Translation": "Belial"
+  },
+  {
+    "SNO": 1496131,
+    "FileName": "World_Boss_WT3_PenitentKnight",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hall of the Penitent"
+  },
+  {
+    "SNO": 1496131,
+    "FileName": "World_Boss_WT3_PenitentKnight",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "This light only draws darker shadows."
+  },
+  {
+    "SNO": 1496131,
+    "FileName": "World_Boss_WT3_PenitentKnight",
+    "Index": 2,
+    "KeyHash": 2620792532,
+    "Key": "DropDesc",
+    "Translation": "Defeating this Lair Boss grants access to {c_important}Grigoire's Hoard{/c} which contains {icon:Icon_Tooltip_MiscTrinkets_CrustyGem_Red_001,2.3}{c_pickups} Shard of Agony{/c}."
+  },
+  {
+    "SNO": 1496131,
+    "FileName": "World_Boss_WT3_PenitentKnight",
+    "Index": 3,
+    "KeyHash": 3340474836,
+    "Key": "NameDetail",
+    "Translation": "Grigoire"
+  },
+  {
+    "SNO": 1496114,
+    "FileName": "World_Boss_WT3_Varshan",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Malignant Burrow"
+  },
+  {
+    "SNO": 1496114,
+    "FileName": "World_Boss_WT3_Varshan",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Ichor weeps from a hole in the earth."
+  },
+  {
+    "SNO": 1496114,
+    "FileName": "World_Boss_WT3_Varshan",
+    "Index": 2,
+    "KeyHash": 2620792532,
+    "Key": "DropDesc",
+    "Translation": "Defeating this Lair Boss grants access to {c_important}Varshan's Hoard{/c} which contains {icon:Icon_Tooltip_MiscTrinkets_CrustyGem_Red_001,2.3}{c_pickups} Shard of Agony{/c}."
+  },
+  {
+    "SNO": 1496114,
+    "FileName": "World_Boss_WT3_Varshan",
+    "Index": 3,
+    "KeyHash": 3340474836,
+    "Key": "NameDetail",
+    "Translation": "Varshan"
+  },
+  {
+    "SNO": 1807181,
+    "FileName": "World_Boss_WT4_Andariel",
+    "Index": 0,
+    "KeyHash": 2620792532,
+    "Key": "DropDesc",
+    "Translation": "Defeating this Lair Boss grants access to {c_important}Andariel's Hoard{/c}."
+  },
+  {
+    "SNO": 1807181,
+    "FileName": "World_Boss_WT4_Andariel",
+    "Index": 1,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hanged Man's Hall"
+  },
+  {
+    "SNO": 1807181,
+    "FileName": "World_Boss_WT4_Andariel",
+    "Index": 2,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "You hear a faint sound: the hiss of chains on stone."
+  },
+  {
+    "SNO": 1807181,
+    "FileName": "World_Boss_WT4_Andariel",
+    "Index": 3,
+    "KeyHash": 3340474836,
+    "Key": "NameDetail",
+    "Translation": "Andariel"
+  },
+  {
+    "SNO": 1496161,
+    "FileName": "World_Boss_WT4_Duriel",
+    "Index": 0,
+    "KeyHash": 2620792532,
+    "Key": "DropDesc",
+    "Translation": "Defeating this Lair Boss grants access to {c_important}Duriel's Hoard{/c}."
+  },
+  {
+    "SNO": 1496161,
+    "FileName": "World_Boss_WT4_Duriel",
+    "Index": 1,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Gaping Crevasse"
+  },
+  {
+    "SNO": 1496161,
+    "FileName": "World_Boss_WT4_Duriel",
+    "Index": 2,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Fetid air billows from a ravine in the desert."
+  },
+  {
+    "SNO": 1496161,
+    "FileName": "World_Boss_WT4_Duriel",
+    "Index": 3,
+    "KeyHash": 3340474836,
+    "Key": "NameDetail",
+    "Translation": "Duriel"
+  },
+  {
+    "SNO": 1496153,
+    "FileName": "World_Boss_WT4_MegaDemon",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Glacial Fissure"
+  },
+  {
+    "SNO": 1496153,
+    "FileName": "World_Boss_WT4_MegaDemon",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "An ancient cavern reopened by the shifting ice."
+  },
+  {
+    "SNO": 1496153,
+    "FileName": "World_Boss_WT4_MegaDemon",
+    "Index": 2,
+    "KeyHash": 2620792532,
+    "Key": "DropDesc",
+    "Translation": "Defeating this Lair Boss grants access to {c_important}The Beast in Ice's Hoard{/c} which contains {icon:Icon_Tooltip_MiscTrinkets_VoodooDoll_001,2}{c_pickups} Pincushioned Doll{/c}."
+  },
+  {
+    "SNO": 1496153,
+    "FileName": "World_Boss_WT4_MegaDemon",
+    "Index": 3,
+    "KeyHash": 3340474836,
+    "Key": "NameDetail",
+    "Translation": "Beast in the Ice"
+  },
+  {
+    "SNO": 1496145,
+    "FileName": "World_Boss_WT4_S2VampireLord",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ancient's Seat"
+  },
+  {
+    "SNO": 1496145,
+    "FileName": "World_Boss_WT4_S2VampireLord",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Bats swarm this place, murmurating in time with the wind."
+  },
+  {
+    "SNO": 1496145,
+    "FileName": "World_Boss_WT4_S2VampireLord",
+    "Index": 2,
+    "KeyHash": 2620792532,
+    "Key": "DropDesc",
+    "Translation": "Defeating this Lair Boss grants access to {c_important}Lord Zir's Hoard{/c} which contains {icon:Icon_Tooltip_MiscTrinkets_VoodooDoll_001,2}{c_pickups} Pincushioned Doll{/c}."
+  },
+  {
+    "SNO": 1496145,
+    "FileName": "World_Boss_WT4_S2VampireLord",
+    "Index": 3,
+    "KeyHash": 3340474836,
+    "Key": "NameDetail",
+    "Translation": "Lord Zir"
+  },
+  {
+    "SNO": 2191386,
+    "FileName": "World_Boss_WT5_Harbinger",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Harbinger's Den"
+  },
+  {
+    "SNO": 2191386,
+    "FileName": "World_Boss_WT5_Harbinger",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Be drawn toward a dark den, from which there is no return."
+  },
+  {
+    "SNO": 2191386,
+    "FileName": "World_Boss_WT5_Harbinger",
+    "Index": 2,
+    "KeyHash": 2620792532,
+    "Key": "DropDesc",
+    "Translation": "Defeating this Lair Boss grants access to {c_important}Harbinger of Hatred's Hoard{/c}."
+  },
+  {
+    "SNO": 2191386,
+    "FileName": "World_Boss_WT5_Harbinger",
+    "Index": 3,
+    "KeyHash": 3340474836,
+    "Key": "NameDetail",
+    "Translation": "Harbinger of Hatred"
+  },
+  {
+    "SNO": 2191379,
+    "FileName": "World_Boss_WT5_Urivar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Fields of Judgement"
+  },
+  {
+    "SNO": 2191379,
+    "FileName": "World_Boss_WT5_Urivar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The breeze bends the grass and whispers your death to you."
+  },
+  {
+    "SNO": 2191379,
+    "FileName": "World_Boss_WT5_Urivar",
+    "Index": 2,
+    "KeyHash": 2620792532,
+    "Key": "DropDesc",
+    "Translation": "Defeating this Lair Boss grants access to {c_important}Urivar's Hoard{/c} which contains {icon:Item_s08_SpiritHeart,2.3}{c_pickups} Abhorrent Heart{/c}."
+  },
+  {
+    "SNO": 2191379,
+    "FileName": "World_Boss_WT5_Urivar",
+    "Index": 3,
+    "KeyHash": 3340474836,
+    "Key": "NameDetail",
+    "Translation": "Urivar"
+  },
+  {
+    "SNO": 1113612,
+    "FileName": "World_CAP_Tier2_Frac_CathedralofLight",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Cathedral of Light"
+  },
+  {
+    "SNO": 1113612,
+    "FileName": "World_CAP_Tier2_Frac_CathedralofLight",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Were you ever truly welcome here?"
+  },
+  {
+    "SNO": 1114181,
+    "FileName": "World_CAP_Tier3_Step_FallenTemple",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Fallen Temple"
+  },
+  {
+    "SNO": 1114181,
+    "FileName": "World_CAP_Tier3_Step_FallenTemple",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "One of the Triune's most formidable temples."
+  },
+  {
+    "SNO": 1113550,
+    "FileName": "World_CAP_Tier4_Scos_ArchivesofIssalia",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Archives of Issalia"
+  },
+  {
+    "SNO": 1113550,
+    "FileName": "World_CAP_Tier4_Scos_ArchivesofIssalia",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The dusty books watch as something wicked roams their halls."
+  },
+  {
+    "SNO": 1120523,
+    "FileName": "World_CAP_Tier5_Kehj_Hell_ThroneofHatred",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Echo of Hatred"
+  },
+  {
+    "SNO": 1120523,
+    "FileName": "World_CAP_Tier5_Kehj_Hell_ThroneofHatred",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Lilith's presence still lingers within you."
+  },
+  {
+    "SNO": 1574441,
+    "FileName": "World_CMP_Naha_GatesOfTheNecropolis_Tunnel1",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Skittering Darkness"
+  },
+  {
+    "SNO": 1583430,
+    "FileName": "World_CMP_Naha_GatesOfTheNecropolis_Tunnel2",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Vile Darkness"
+  },
+  {
+    "SNO": 1114093,
+    "FileName": "World_CSD_Frac_Conv_HoradricVault",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Horadric Vault"
+  },
+  {
+    "SNO": 1114093,
+    "FileName": "World_CSD_Frac_Conv_HoradricVault",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A hall of magical study built upon ancient mage clan ruins."
+  },
+  {
+    "SNO": 1924177,
+    "FileName": "World_CSD_Frac_Epilogue_HoradricVault",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Horadric Vault"
+  },
+  {
+    "SNO": 1924177,
+    "FileName": "World_CSD_Frac_Epilogue_HoradricVault",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A hall of magical study built upon ancient mage clan ruins."
+  },
+  {
+    "SNO": 1114145,
+    "FileName": "World_CSD_Frac_Finale_HoradricVault",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Horadric Vault"
+  },
+  {
+    "SNO": 1114145,
+    "FileName": "World_CSD_Frac_Finale_HoradricVault",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A hall of magical study built upon ancient mage clan ruins."
+  },
+  {
+    "SNO": 1113386,
+    "FileName": "World_CSD_Frac_GaleValley_HoradricVault",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Horadric Vault"
+  },
+  {
+    "SNO": 1113386,
+    "FileName": "World_CSD_Frac_GaleValley_HoradricVault",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A hall of magical study built upon ancient mage clan ruins."
+  },
+  {
+    "SNO": 1113367,
+    "FileName": "World_CSD_Frac_GaleValley_IllusionWoods",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Darkened Holt"
+  },
+  {
+    "SNO": 1113367,
+    "FileName": "World_CSD_Frac_GaleValley_IllusionWoods",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "An arcane mist shrouds these forested paths."
+  },
+  {
+    "SNO": 1114175,
+    "FileName": "World_CSD_Frac_GaleValley_OldMines",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Condemned Mines"
+  },
+  {
+    "SNO": 1114175,
+    "FileName": "World_CSD_Frac_GaleValley_OldMines",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "These unstable tunnels were shut down by the Cathedral."
+  },
+  {
+    "SNO": 1113087,
+    "FileName": "World_CSD_Frac_Glacier_MonasteryHalls",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Alabaster Monastery"
+  },
+  {
+    "SNO": 1113087,
+    "FileName": "World_CSD_Frac_Glacier_MonasteryHalls",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Inarius meditates in the solitude of this holy place."
+  },
+  {
+    "SNO": 1113064,
+    "FileName": "World_CSD_Frac_Prologue_AbandonedTower",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Icehowl Ruins"
+  },
+  {
+    "SNO": 1113064,
+    "FileName": "World_CSD_Frac_Prologue_AbandonedTower",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "An unknown evil stirs within these abandoned halls."
+  },
+  {
+    "SNO": 1257648,
+    "FileName": "World_CSD_Frac_Prologue_WestfieldCellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Iceworn Cellar"
+  },
+  {
+    "SNO": 1113601,
+    "FileName": "World_CSD_Frac_Underworld_AncientCity",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Cradle"
+  },
+  {
+    "SNO": 1113601,
+    "FileName": "World_CSD_Frac_Underworld_AncientCity",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Once home to the first humans, now overrun by demons."
+  },
+  {
+    "SNO": 1113665,
+    "FileName": "World_CSD_Frac_Underworld_AncientMausoleum",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Necropolis of the Firstborn"
+  },
+  {
+    "SNO": 1113665,
+    "FileName": "World_CSD_Frac_Underworld_AncientMausoleum",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The first humans were laid to rest beyond the Black Lake."
+  },
+  {
+    "SNO": 1113712,
+    "FileName": "World_CSD_Hawe_Marsh_SnakeDen",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Slithering Dark"
+  },
+  {
+    "SNO": 1113712,
+    "FileName": "World_CSD_Hawe_Marsh_SnakeDen",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The deep winding tunnels are home to Hawezar's serpents."
+  },
+  {
+    "SNO": 1113417,
+    "FileName": "World_CSD_Hawe_Swamp_TempleoftheDeathspeaker",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Temple of the Deathspeaker"
+  },
+  {
+    "SNO": 1113417,
+    "FileName": "World_CSD_Hawe_Swamp_TempleoftheDeathspeaker",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A repository of knowledge on the cycle of life and death."
+  },
+  {
+    "SNO": 1113359,
+    "FileName": "World_CSD_Hawe_Verge_CorrosiveSwamp",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hungering Swamp"
+  },
+  {
+    "SNO": 1113359,
+    "FileName": "World_CSD_Hawe_Verge_CorrosiveSwamp",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A place of great occult power for the witches of Hawezar."
+  },
+  {
+    "SNO": 1113533,
+    "FileName": "World_CSD_Hawe_Wetland_ZakFortCrypts",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Foul Undercrypts"
+  },
+  {
+    "SNO": 1113533,
+    "FileName": "World_CSD_Hawe_Wetland_ZakFortCrypts",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The sealed resting place of the Que-Hegan Sankekur."
+  },
+  {
+    "SNO": 1113278,
+    "FileName": "World_CSD_Hawe_Wetland_ZakFortKeep",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Foul Undercrypts"
+  },
+  {
+    "SNO": 1113278,
+    "FileName": "World_CSD_Hawe_Wetland_ZakFortKeep",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The sealed resting place of the Que-Hegan Sankekur."
+  },
+  {
+    "SNO": 1114051,
+    "FileName": "World_CSD_Kehj_Hell_ThroneOfHatred",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Cathedral of Hatred"
+  },
+  {
+    "SNO": 1114051,
+    "FileName": "World_CSD_Kehj_Hell_ThroneOfHatred",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Mephisto, Lord of Hatred, awaits in these bone-white halls."
+  },
+  {
+    "SNO": 1113057,
+    "FileName": "World_CSD_Kehj_Magnus_EliasPalace",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Exalted Terrace"
+  },
+  {
+    "SNO": 1113057,
+    "FileName": "World_CSD_Kehj_Magnus_EliasPalace",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A place of study where Elias shares Lilith's gifts."
+  },
+  {
+    "SNO": 1583527,
+    "FileName": "World_CSD_Kehj_Prologue_BlacksmithCellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Raheir's Workshop"
+  },
+  {
+    "SNO": 1583527,
+    "FileName": "World_CSD_Kehj_Prologue_BlacksmithCellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A private workshop where Raheir conducts business."
+  },
+  {
+    "SNO": 1579815,
+    "FileName": "World_CSD_Naha_FiveHills_TombOfAkarat01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Tomb of Akarat"
+  },
+  {
+    "SNO": 1579815,
+    "FileName": "World_CSD_Naha_FiveHills_TombOfAkarat01",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The prophet's final resting place. Secured by his dedicants."
+  },
+  {
+    "SNO": 1583503,
+    "FileName": "World_CSD_Naha_Lingering_DuranceOfHate_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Durance of Hate"
+  },
+  {
+    "SNO": 1583503,
+    "FileName": "World_CSD_Naha_Lingering_DuranceOfHate_01",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "These dark depths still surge with Mephisto's power."
+  },
+  {
+    "SNO": 1583511,
+    "FileName": "World_CSD_Naha_Lingering_KurastSewers",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kurast Undercity"
+  },
+  {
+    "SNO": 1583511,
+    "FileName": "World_CSD_Naha_Lingering_KurastSewers",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The long forgotten foundation of the ancient city."
+  },
+  {
+    "SNO": 1962341,
+    "FileName": "World_CSD_Naha_Teganze01_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Buried Chamber"
+  },
+  {
+    "SNO": 1962341,
+    "FileName": "World_CSD_Naha_Teganze01_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A cave entrance hidden under blown dirt."
+  },
+  {
+    "SNO": 1897954,
+    "FileName": "World_CSD_Naha_Teganze_AkaratsApostles",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Dedicant's Cache"
+  },
+  {
+    "SNO": 1897954,
+    "FileName": "World_CSD_Naha_Teganze_AkaratsApostles",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A secret repository of Akarat teachings and texts"
+  },
+  {
+    "SNO": 1909064,
+    "FileName": "World_CSD_Naha_Teganze_BurntKnightHideout",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Burned Knight Encampment"
+  },
+  {
+    "SNO": 1909064,
+    "FileName": "World_CSD_Naha_Teganze_BurntKnightHideout",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The Burned Knights have just one foothold in these wilds."
+  },
+  {
+    "SNO": 1583522,
+    "FileName": "World_CSD_Naha_Teganze_DuranceOfHate_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Durance of Hate"
+  },
+  {
+    "SNO": 1583522,
+    "FileName": "World_CSD_Naha_Teganze_DuranceOfHate_02",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "These dark depths still surge with Mephisto's power."
+  },
+  {
+    "SNO": 1897697,
+    "FileName": "World_CSD_Naha_Teganze_HellphistoDungeon",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Fortress of Hatred"
+  },
+  {
+    "SNO": 1897697,
+    "FileName": "World_CSD_Naha_Teganze_HellphistoDungeon",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Mephisto beckons you to his shadowy realm"
+  },
+  {
+    "SNO": 1583572,
+    "FileName": "World_CSD_Naha_Teganze_SpiritRealm",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Spirit Realm"
+  },
+  {
+    "SNO": 1583572,
+    "FileName": "World_CSD_Naha_Teganze_SpiritRealm",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Seek Ah Bulan in the home of the Spirits."
+  },
+  {
+    "SNO": 1114311,
+    "FileName": "World_CSD_Scos_Eldhaime_Barracks",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Eldhaime Barracks"
+  },
+  {
+    "SNO": 1114311,
+    "FileName": "World_CSD_Scos_Eldhaime_Barracks",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Astaroth's soulstone rests in the depths of Eldhaime Keep."
+  },
+  {
+    "SNO": 1113445,
+    "FileName": "World_CSD_Scos_Eldhaime_Estate",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Donan's Study"
+  },
+  {
+    "SNO": 1113445,
+    "FileName": "World_CSD_Scos_Eldhaime_Estate",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A private office where Donan handles his many affairs."
+  },
+  {
+    "SNO": 1113729,
+    "FileName": "World_CSD_Scos_Eldhaime_Ruins",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Eldhaime Ruins"
+  },
+  {
+    "SNO": 1113729,
+    "FileName": "World_CSD_Scos_Eldhaime_Ruins",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "These overrun battlements should lead to the Great Hall."
+  },
+  {
+    "SNO": 1113593,
+    "FileName": "World_CSD_Scos_Hills_WeepingCairns",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Weeping Cairns"
+  },
+  {
+    "SNO": 1113593,
+    "FileName": "World_CSD_Scos_Hills_WeepingCairns",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A silent resting place of Scosglen's deceased, now awoken."
+  },
+  {
+    "SNO": 1113669,
+    "FileName": "World_CSD_Scos_Moors_HeartoftheMoors",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Untamed Thicket"
+  },
+  {
+    "SNO": 1113669,
+    "FileName": "World_CSD_Scos_Moors_HeartoftheMoors",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Nafain's corrupted blood pools within."
+  },
+  {
+    "SNO": 1113152,
+    "FileName": "World_CSD_Step_Guulrahn_SanguineAlley",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Guulrahn"
+  },
+  {
+    "SNO": 1113152,
+    "FileName": "World_CSD_Step_Guulrahn_SanguineAlley",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The blood-soaked streets where cannibals feed."
+  },
+  {
+    "SNO": 1113206,
+    "FileName": "World_CSD_Step_Guulrahn_ThroatOfAvarice",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Offal Pits"
+  },
+  {
+    "SNO": 1113206,
+    "FileName": "World_CSD_Step_Guulrahn_ThroatOfAvarice",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "These filthy caves hide a secret path into Guulrahn Palace."
+  },
+  {
+    "SNO": 1113899,
+    "FileName": "World_CSD_Step_MtCivo_TempleoftheTriune",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Temple of The Primes"
+  },
+  {
+    "SNO": 1113899,
+    "FileName": "World_CSD_Step_MtCivo_TempleoftheTriune",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The seat of the Triune's power, hidden for millennia."
+  },
+  {
+    "SNO": 1114152,
+    "FileName": "World_CSD_Step_MtCivo_VenerationOfDestruction",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Veneration of Hated"
+  },
+  {
+    "SNO": 1114152,
+    "FileName": "World_CSD_Step_MtCivo_VenerationOfDestruction",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A mysterious portal into the realm of Hatred."
+  },
+  {
+    "SNO": 1114282,
+    "FileName": "World_CSD_Step_Orbei_OrbeiMonastery",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Orbei Monastery Halls"
+  },
+  {
+    "SNO": 1114282,
+    "FileName": "World_CSD_Step_Orbei_OrbeiMonastery",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "An old Zakarum monastery where secret knowledge is hoarded."
+  },
+  {
+    "SNO": 1113629,
+    "FileName": "World_DGN_Frac_AnicasClaim",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Anica's Claim"
+  },
+  {
+    "SNO": 1113629,
+    "FileName": "World_DGN_Frac_AnicasClaim",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Inhuman hands carved out these dark tunnels."
+  },
+  {
+    "SNO": 1113478,
+    "FileName": "World_DGN_Frac_BlackAsylum",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Black Asylum"
+  },
+  {
+    "SNO": 1113478,
+    "FileName": "World_DGN_Frac_BlackAsylum",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "An abandoned prison teeming with the wails of its inmates."
+  },
+  {
+    "SNO": 1113847,
+    "FileName": "World_DGN_Frac_CalderaGate",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Caldera Gate"
+  },
+  {
+    "SNO": 1113847,
+    "FileName": "World_DGN_Frac_CalderaGate",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The demons in this icy cave are growing stronger."
+  },
+  {
+    "SNO": 1113472,
+    "FileName": "World_DGN_Frac_CultistRefuge",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Cultist Refuge"
+  },
+  {
+    "SNO": 1113472,
+    "FileName": "World_DGN_Frac_CultistRefuge",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The last bastion of Nostrava\u2019s cultists."
+  },
+  {
+    "SNO": 1113542,
+    "FileName": "World_DGN_Frac_DeadMansDredge",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Dead Man's Dredge"
+  },
+  {
+    "SNO": 1113542,
+    "FileName": "World_DGN_Frac_DeadMansDredge",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The predators that dwell in this cave hunt human game."
+  },
+  {
+    "SNO": 1113636,
+    "FileName": "World_DGN_Frac_DefiledCatacomb",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Defiled Catacomb"
+  },
+  {
+    "SNO": 1113636,
+    "FileName": "World_DGN_Frac_DefiledCatacomb",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Graverobbers warn against the temptations of this crypt."
+  },
+  {
+    "SNO": 1113803,
+    "FileName": "World_DGN_Frac_DerelictLodge",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Derelict Lodge"
+  },
+  {
+    "SNO": 1113803,
+    "FileName": "World_DGN_Frac_DerelictLodge",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Once a hunting lodge, now ruled by demons."
+  },
+  {
+    "SNO": 1113156,
+    "FileName": "World_DGN_Frac_ForbiddenCity",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Forbidden City"
+  },
+  {
+    "SNO": 1113156,
+    "FileName": "World_DGN_Frac_ForbiddenCity",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "An ancient tomb lies open, its corruption spilling forth."
+  },
+  {
+    "SNO": 1114262,
+    "FileName": "World_DGN_Frac_ForsakenQuarry",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Forsaken Quarry"
+  },
+  {
+    "SNO": 1114262,
+    "FileName": "World_DGN_Frac_ForsakenQuarry",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "These once-barren mineshafts now harbor ghastly rituals."
+  },
+  {
+    "SNO": 1113500,
+    "FileName": "World_DGN_Frac_HallowedOssuary",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hallowed Ossuary"
+  },
+  {
+    "SNO": 1113500,
+    "FileName": "World_DGN_Frac_HallowedOssuary",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A tomb of martyrs, desecrated and made powerful again."
+  },
+  {
+    "SNO": 1113997,
+    "FileName": "World_DGN_Frac_HoarfrostDemise",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hoarfrost Demise"
+  },
+  {
+    "SNO": 1113997,
+    "FileName": "World_DGN_Frac_HoarfrostDemise",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "An icy Goatman cave, littered with corpses and bones."
+  },
+  {
+    "SNO": 1113291,
+    "FileName": "World_DGN_Frac_ImmortalEmanation",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Immortal Emanation"
+  },
+  {
+    "SNO": 1113291,
+    "FileName": "World_DGN_Frac_ImmortalEmanation",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A hunting ground, when prey is foolish enough to enter."
+  },
+  {
+    "SNO": 1113896,
+    "FileName": "World_DGN_Frac_KorDraganBarracks",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kor Dragan Barracks"
+  },
+  {
+    "SNO": 1113896,
+    "FileName": "World_DGN_Frac_KorDraganBarracks",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The honored halls have been left for the dead to wander."
+  },
+  {
+    "SNO": 1113098,
+    "FileName": "World_DGN_Frac_KorValarRamparts",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kor Valar Ramparts"
+  },
+  {
+    "SNO": 1113098,
+    "FileName": "World_DGN_Frac_KorValarRamparts",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A corrupted fortress concealing the sins of the Penitents."
+  },
+  {
+    "SNO": 1113451,
+    "FileName": "World_DGN_Frac_LightsWatch",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Light's Watch"
+  },
+  {
+    "SNO": 1113451,
+    "FileName": "World_DGN_Frac_LightsWatch",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A Knights' keep, repurposed for bandits and other parasites."
+  },
+  {
+    "SNO": 1113127,
+    "FileName": "World_DGN_Frac_LostArchives",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Lost Archives"
+  },
+  {
+    "SNO": 1113127,
+    "FileName": "World_DGN_Frac_LostArchives",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Many speculate what lies within, but few dare to venture on."
+  },
+  {
+    "SNO": 1113584,
+    "FileName": "World_DGN_Frac_Maulwood",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Maulwood"
+  },
+  {
+    "SNO": 1113584,
+    "FileName": "World_DGN_Frac_Maulwood",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Bandits have claimed these woods and its monsters."
+  },
+  {
+    "SNO": 1114168,
+    "FileName": "World_DGN_Frac_MercysReach",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Mercy's Reach"
+  },
+  {
+    "SNO": 1114168,
+    "FileName": "World_DGN_Frac_MercysReach",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "This crumbling keep was once a way through the mountains."
+  },
+  {
+    "SNO": 1113695,
+    "FileName": "World_DGN_Frac_NostravaDeepwood",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Nostrava Deepwood"
+  },
+  {
+    "SNO": 1113695,
+    "FileName": "World_DGN_Frac_NostravaDeepwood",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The undead roam among the trees."
+  },
+  {
+    "SNO": 1113937,
+    "FileName": "World_DGN_Frac_RimescarCavern",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Rimescar Cavern"
+  },
+  {
+    "SNO": 1113937,
+    "FileName": "World_DGN_Frac_RimescarCavern",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A cave reclaimed by demons and sickened with their magic."
+  },
+  {
+    "SNO": 1113196,
+    "FileName": "World_DGN_Frac_RitualTower",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Tormented Ruins"
+  },
+  {
+    "SNO": 1113196,
+    "FileName": "World_DGN_Frac_RitualTower",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "It's been centuries since this watchtower saw mortal use."
+  },
+  {
+    "SNO": 1113145,
+    "FileName": "World_DGN_Frac_SanguineChapel",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sanguine Chapel"
+  },
+  {
+    "SNO": 1113145,
+    "FileName": "World_DGN_Frac_SanguineChapel",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A snowed in abandoned Zakarum church invaded by vampires."
+  },
+  {
+    "SNO": 1114205,
+    "FileName": "World_DGN_Frac_Zenith",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Zenith"
+  },
+  {
+    "SNO": 1114205,
+    "FileName": "World_DGN_Frac_Zenith",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Unmapped tunnels sprawl beneath the peaks."
+  },
+  {
+    "SNO": 1113455,
+    "FileName": "World_DGN_Hawe_AkkhansGrasp",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Akkhan's Grasp"
+  },
+  {
+    "SNO": 1113455,
+    "FileName": "World_DGN_Hawe_AkkhansGrasp",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Evil and blood seep through the tomb's ruptured seals."
+  },
+  {
+    "SNO": 1113084,
+    "FileName": "World_DGN_Hawe_AncientReservoir",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ancient Reservoir"
+  },
+  {
+    "SNO": 1113084,
+    "FileName": "World_DGN_Hawe_AncientReservoir",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A tainted wellspring runs under these ruins."
+  },
+  {
+    "SNO": 1114114,
+    "FileName": "World_DGN_Hawe_BastionOfFaith",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Bastion of Faith"
+  },
+  {
+    "SNO": 1114114,
+    "FileName": "World_DGN_Hawe_BastionOfFaith",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Lost and starving, the knights became beasts."
+  },
+  {
+    "SNO": 1113153,
+    "FileName": "World_DGN_Hawe_BelfryZakara",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Belfry Zakara"
+  },
+  {
+    "SNO": 1113153,
+    "FileName": "World_DGN_Hawe_BelfryZakara",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The Zakarum built this Cathedral. It honors the sea, now."
+  },
+  {
+    "SNO": 1113468,
+    "FileName": "World_DGN_Hawe_BlindBurrows",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Blind Burrows"
+  },
+  {
+    "SNO": 1113468,
+    "FileName": "World_DGN_Hawe_BlindBurrows",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The spiders here have acquired a taste for flesh."
+  },
+  {
+    "SNO": 1113105,
+    "FileName": "World_DGN_Hawe_EarthenWound",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Earthen Wound"
+  },
+  {
+    "SNO": 1113105,
+    "FileName": "World_DGN_Hawe_EarthenWound",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The demons that dwelled here became a feast for cannibals."
+  },
+  {
+    "SNO": 1114081,
+    "FileName": "World_DGN_Hawe_EndlessGates",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Endless Gates"
+  },
+  {
+    "SNO": 1114081,
+    "FileName": "World_DGN_Hawe_EndlessGates",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Unholy creatures run amok between realms."
+  },
+  {
+    "SNO": 1114071,
+    "FileName": "World_DGN_Hawe_FacelessShrine",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Faceless Shrine"
+  },
+  {
+    "SNO": 1114071,
+    "FileName": "World_DGN_Hawe_FacelessShrine",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "One of Hawezar\u2019s less secretive cults. Sinners welcome."
+  },
+  {
+    "SNO": 1114046,
+    "FileName": "World_DGN_Hawe_FetidMausoleum",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Fetid Mausoleum"
+  },
+  {
+    "SNO": 1114046,
+    "FileName": "World_DGN_Hawe_FetidMausoleum",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A forgotten tomb for the restless dead of Eridu."
+  },
+  {
+    "SNO": 1114192,
+    "FileName": "World_DGN_Hawe_GhoaRuins",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ghoa Ruins"
+  },
+  {
+    "SNO": 1114192,
+    "FileName": "World_DGN_Hawe_GhoaRuins",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Once a keep. The swamp reclaims all that mortal hands build."
+  },
+  {
+    "SNO": 1114067,
+    "FileName": "World_DGN_Hawe_HauntedRefuge",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Haunted Refuge"
+  },
+  {
+    "SNO": 1114067,
+    "FileName": "World_DGN_Hawe_HauntedRefuge",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The old church sinks into the delta, drowning slowly."
+  },
+  {
+    "SNO": 1113793,
+    "FileName": "World_DGN_Hawe_HeathensKeep",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Heathen's Keep"
+  },
+  {
+    "SNO": 1113793,
+    "FileName": "World_DGN_Hawe_HeathensKeep",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "These Knights have sworn allegiance to a new leader."
+  },
+  {
+    "SNO": 1113530,
+    "FileName": "World_DGN_Hawe_IronHold",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Iron Hold"
+  },
+  {
+    "SNO": 1113530,
+    "FileName": "World_DGN_Hawe_IronHold",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A scourge stirs within the bowels of a decaying prison."
+  },
+  {
+    "SNO": 1113903,
+    "FileName": "World_DGN_Hawe_LeviathansMaw",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Leviathan's Maw"
+  },
+  {
+    "SNO": 1113903,
+    "FileName": "World_DGN_Hawe_LeviathansMaw",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Cultists lurk in these flooded ruins."
+  },
+  {
+    "SNO": 1114156,
+    "FileName": "World_DGN_Hawe_LightsRefuge",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Light's Refuge"
+  },
+  {
+    "SNO": 1114156,
+    "FileName": "World_DGN_Hawe_LightsRefuge",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "In a forgotten home lies a nest made of teeth and armor."
+  },
+  {
+    "SNO": 1113337,
+    "FileName": "World_DGN_Hawe_LostKeep",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Lost Keep"
+  },
+  {
+    "SNO": 1113337,
+    "FileName": "World_DGN_Hawe_LostKeep",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Yet another rotting keep abandoned by the Cathedral."
+  },
+  {
+    "SNO": 1113049,
+    "FileName": "World_DGN_Hawe_MaugansWorks",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Maugan's Works"
+  },
+  {
+    "SNO": 1113049,
+    "FileName": "World_DGN_Hawe_MaugansWorks",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A rotting hall for criminals and deserters."
+  },
+  {
+    "SNO": 1113931,
+    "FileName": "World_DGN_Hawe_Oblivion",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Oblivion"
+  },
+  {
+    "SNO": 1113931,
+    "FileName": "World_DGN_Hawe_Oblivion",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The demons of Eriman's Pyre fled to this crumbling prison."
+  },
+  {
+    "SNO": 1114038,
+    "FileName": "World_DGN_Hawe_RuinsofEridu",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ruins of Eridu"
+  },
+  {
+    "SNO": 1114038,
+    "FileName": "World_DGN_Hawe_RuinsofEridu",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A once-mighty fortress consumed by the swamp."
+  },
+  {
+    "SNO": 1113297,
+    "FileName": "World_DGN_Hawe_SerpentsLair",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Serpent's Lair"
+  },
+  {
+    "SNO": 1113297,
+    "FileName": "World_DGN_Hawe_SerpentsLair",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Once the seat of Mohlon's throne. They want another queen."
+  },
+  {
+    "SNO": 1114271,
+    "FileName": "World_DGN_Hawe_ShadowedPlunge",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Shadowed Plunge"
+  },
+  {
+    "SNO": 1114271,
+    "FileName": "World_DGN_Hawe_ShadowedPlunge",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Snake Cultists sacrifice the innocent."
+  },
+  {
+    "SNO": 1113805,
+    "FileName": "World_DGN_Hawe_SteadfastBarracks",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Steadfast Barracks"
+  },
+  {
+    "SNO": 1113805,
+    "FileName": "World_DGN_Hawe_SteadfastBarracks",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A nest of savage fanatics, drawn to evil long-buried."
+  },
+  {
+    "SNO": 1114338,
+    "FileName": "World_DGN_Hawe_Witchwater",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Witchwater"
+  },
+  {
+    "SNO": 1114338,
+    "FileName": "World_DGN_Hawe_Witchwater",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Nangari cultists lure prey here with songs sung in dreams."
+  },
+  {
+    "SNO": 1113289,
+    "FileName": "World_DGN_Kehj_AbandonedMineworks",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Abandoned Mineworks"
+  },
+  {
+    "SNO": 1113289,
+    "FileName": "World_DGN_Kehj_AbandonedMineworks",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A maze of tunnels, still walked by those who died here."
+  },
+  {
+    "SNO": 1113350,
+    "FileName": "World_DGN_Kehj_CollapsedVault",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Collapsed Vault"
+  },
+  {
+    "SNO": 1113350,
+    "FileName": "World_DGN_Kehj_CollapsedVault",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "In dead hands do these ancient treasures lie."
+  },
+  {
+    "SNO": 1113194,
+    "FileName": "World_DGN_Kehj_Conclave",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Conclave"
+  },
+  {
+    "SNO": 1113194,
+    "FileName": "World_DGN_Kehj_Conclave",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Tales of profane rituals grip the people with fear."
+  },
+  {
+    "SNO": 1113107,
+    "FileName": "World_DGN_Kehj_CorruptedGrotto",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Corrupted Grotto"
+  },
+  {
+    "SNO": 1113107,
+    "FileName": "World_DGN_Kehj_CorruptedGrotto",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The forgotten dead languish under barren rock."
+  },
+  {
+    "SNO": 1113392,
+    "FileName": "World_DGN_Kehj_CrumblingHekma",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Crumbling Hekma"
+  },
+  {
+    "SNO": 1113392,
+    "FileName": "World_DGN_Kehj_CrumblingHekma",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A hate-infested catacomb of the Zakarum faith."
+  },
+  {
+    "SNO": 1113900,
+    "FileName": "World_DGN_Kehj_CrusadersCathedral",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Crusaders' Cathedral"
+  },
+  {
+    "SNO": 1113900,
+    "FileName": "World_DGN_Kehj_CrusadersCathedral",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Knights seized this temple and its undead warriors alike."
+  },
+  {
+    "SNO": 1114021,
+    "FileName": "World_DGN_Kehj_DesertedUnderpass",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Deserted Underpass"
+  },
+  {
+    "SNO": 1114021,
+    "FileName": "World_DGN_Kehj_DesertedUnderpass",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A threat lurks in caves under the ruined Overlook."
+  },
+  {
+    "SNO": 1113928,
+    "FileName": "World_DGN_Kehj_FadingEcho",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Fading Echo"
+  },
+  {
+    "SNO": 1113928,
+    "FileName": "World_DGN_Kehj_FadingEcho",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "These ruins have become host to a growing army of demons."
+  },
+  {
+    "SNO": 1113710,
+    "FileName": "World_DGN_Kehj_ForgottenRuins",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Forgotten Ruins"
+  },
+  {
+    "SNO": 1113710,
+    "FileName": "World_DGN_Kehj_ForgottenRuins",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Serpents infest the bones of these forbidden mage halls."
+  },
+  {
+    "SNO": 1114247,
+    "FileName": "World_DGN_Kehj_HakansRefuge",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hakan's Refuge"
+  },
+  {
+    "SNO": 1114247,
+    "FileName": "World_DGN_Kehj_HakansRefuge",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "This one grand manor lies in ruins, festering with memories."
+  },
+  {
+    "SNO": 1113361,
+    "FileName": "World_DGN_Kehj_HallsoftheDamned",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Halls of the Damned"
+  },
+  {
+    "SNO": 1113361,
+    "FileName": "World_DGN_Kehj_HallsoftheDamned",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Triune mages once pioneered strange magics here..."
+  },
+  {
+    "SNO": 1113270,
+    "FileName": "World_DGN_Kehj_HereticsAsylum",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Heretics Asylum"
+  },
+  {
+    "SNO": 1113270,
+    "FileName": "World_DGN_Kehj_HereticsAsylum",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A jail home to the corrupt and cruel."
+  },
+  {
+    "SNO": 1113063,
+    "FileName": "World_DGN_Kehj_Inferno",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Inferno"
+  },
+  {
+    "SNO": 1113063,
+    "FileName": "World_DGN_Kehj_Inferno",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "We have carved into the rock to seek Hell."
+  },
+  {
+    "SNO": 1113085,
+    "FileName": "World_DGN_Kehj_PrisonofCaldeum",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Prison of Caldeum"
+  },
+  {
+    "SNO": 1113085,
+    "FileName": "World_DGN_Kehj_PrisonofCaldeum",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Something wicked stirs in the prison."
+  },
+  {
+    "SNO": 1113852,
+    "FileName": "World_DGN_Kehj_PutridAquifer",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Putrid Aquifer"
+  },
+  {
+    "SNO": 1113852,
+    "FileName": "World_DGN_Kehj_PutridAquifer",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Death taints the water."
+  },
+  {
+    "SNO": 1113988,
+    "FileName": "World_DGN_Kehj_RenegadesRetreat",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Renegade's Retreat"
+  },
+  {
+    "SNO": 1113988,
+    "FileName": "World_DGN_Kehj_RenegadesRetreat",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Renegade knights reap the spoils of Inarius\u2019 crusade."
+  },
+  {
+    "SNO": 1114026,
+    "FileName": "World_DGN_Kehj_SepulcherOfTheForsworn",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sepulcher of The Forsworn"
+  },
+  {
+    "SNO": 1114026,
+    "FileName": "World_DGN_Kehj_SepulcherOfTheForsworn",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Evil stirs below the altar of Baal."
+  },
+  {
+    "SNO": 1114092,
+    "FileName": "World_DGN_Kehj_ShivtaRuins",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Shivta Ruins"
+  },
+  {
+    "SNO": 1114092,
+    "FileName": "World_DGN_Kehj_ShivtaRuins",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The corruption in Alcarnus has bled into these ruins."
+  },
+  {
+    "SNO": 1113581,
+    "FileName": "World_DGN_Kehj_SiroccoCaverns",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sirocco Caverns"
+  },
+  {
+    "SNO": 1113581,
+    "FileName": "World_DGN_Kehj_SiroccoCaverns",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A foul infestation has claimed these caverns."
+  },
+  {
+    "SNO": 1113576,
+    "FileName": "World_DGN_Kehj_SunkenLibrary",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sunken Library"
+  },
+  {
+    "SNO": 1113576,
+    "FileName": "World_DGN_Kehj_SunkenLibrary",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The dead guard secrets confined in the ancient vault."
+  },
+  {
+    "SNO": 1113343,
+    "FileName": "World_DGN_Kehj_TomboftheSaints",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Tomb of the Saints"
+  },
+  {
+    "SNO": 1113343,
+    "FileName": "World_DGN_Kehj_TomboftheSaints",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "This barren tomb was once fat with gold."
+  },
+  {
+    "SNO": 1114151,
+    "FileName": "World_DGN_Kehj_UldursCave",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Uldur's Cave"
+  },
+  {
+    "SNO": 1114151,
+    "FileName": "World_DGN_Kehj_UldursCave",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A den of murderers and carrion feeders."
+  },
+  {
+    "SNO": 1113567,
+    "FileName": "World_DGN_Kehj_YshariSanctum",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Yshari Sanctum"
+  },
+  {
+    "SNO": 1113567,
+    "FileName": "World_DGN_Kehj_YshariSanctum",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Cultists corrupt the ancient Sanctum."
+  },
+  {
+    "SNO": 1585511,
+    "FileName": "World_DGN_Naha_BeastGraveyard",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Beast Graveyard"
+  },
+  {
+    "SNO": 1585511,
+    "FileName": "World_DGN_Naha_BeastGraveyard",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Scavengers often come to profit off the holy giants."
+  },
+  {
+    "SNO": 1585475,
+    "FileName": "World_DGN_Naha_BetrayedTomb",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Betrayed Tomb"
+  },
+  {
+    "SNO": 1585475,
+    "FileName": "World_DGN_Naha_BetrayedTomb",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Spirits writhe as hollows screech out in monstrous agony."
+  },
+  {
+    "SNO": 1585570,
+    "FileName": "World_DGN_Naha_CavesofKutokue",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Caves of Kutokue"
+  },
+  {
+    "SNO": 1585570,
+    "FileName": "World_DGN_Naha_CavesofKutokue",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Screams of desperation echo in the walls."
+  },
+  {
+    "SNO": 1585622,
+    "FileName": "World_DGN_Naha_FaraiCliffs",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Farai Cliffs"
+  },
+  {
+    "SNO": 1585622,
+    "FileName": "World_DGN_Naha_FaraiCliffs",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The blood of outsiders glistens in the moonlight."
+  },
+  {
+    "SNO": 1585504,
+    "FileName": "World_DGN_Naha_FeedingGrounds",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Feeding Grounds"
+  },
+  {
+    "SNO": 1585504,
+    "FileName": "World_DGN_Naha_FeedingGrounds",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Fresh victims are fed to the demons in this place."
+  },
+  {
+    "SNO": 1585629,
+    "FileName": "World_DGN_Naha_ForgeofMalice",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Forge of Malice"
+  },
+  {
+    "SNO": 1585629,
+    "FileName": "World_DGN_Naha_ForgeofMalice",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The fires of hatred continue to burn in this hidden refuge."
+  },
+  {
+    "SNO": 1585586,
+    "FileName": "World_DGN_Naha_ForgottenRemains",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Forgotten Remains"
+  },
+  {
+    "SNO": 1585586,
+    "FileName": "World_DGN_Naha_ForgottenRemains",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Villagers have mysteriously disappeared in this vicinity."
+  },
+  {
+    "SNO": 1585547,
+    "FileName": "World_DGN_Naha_HallowedStones",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hallowed Stones"
+  },
+  {
+    "SNO": 1585547,
+    "FileName": "World_DGN_Naha_HallowedStones",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Amidst a storm of evil, something hopeful flickers weakly."
+  },
+  {
+    "SNO": 1585561,
+    "FileName": "World_DGN_Naha_HierophantPyre",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hierophant Pyre"
+  },
+  {
+    "SNO": 1585561,
+    "FileName": "World_DGN_Naha_HierophantPyre",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Once used to burn opposers of Sankekur, the pyres are relit."
+  },
+  {
+    "SNO": 1585468,
+    "FileName": "World_DGN_Naha_IronCenotaph",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Iron Cenotaph"
+  },
+  {
+    "SNO": 1585468,
+    "FileName": "World_DGN_Naha_IronCenotaph",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The first home of the Iron Wolves before the fall of Kurast."
+  },
+  {
+    "SNO": 1585493,
+    "FileName": "World_DGN_Naha_MurmuringSpiral",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Murmuring Spiral"
+  },
+  {
+    "SNO": 1585493,
+    "FileName": "World_DGN_Naha_MurmuringSpiral",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Scales and spirals hypnotize, and some come too close."
+  },
+  {
+    "SNO": 1585540,
+    "FileName": "World_DGN_Naha_PutrescentLarder",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Putrescent Larder"
+  },
+  {
+    "SNO": 1585540,
+    "FileName": "World_DGN_Naha_PutrescentLarder",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The repugnant air affirms where Lacuni store their meats."
+  },
+  {
+    "SNO": 1585460,
+    "FileName": "World_DGN_Naha_RazaksDescent",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Razak's Descent"
+  },
+  {
+    "SNO": 1585460,
+    "FileName": "World_DGN_Naha_RazaksDescent",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Where light is lost and intentions are twisted within roots."
+  },
+  {
+    "SNO": 1585554,
+    "FileName": "World_DGN_Naha_RemnantsofRage",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Remnants of Rage"
+  },
+  {
+    "SNO": 1585554,
+    "FileName": "World_DGN_Naha_RemnantsofRage",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Within these confines, something restless trembles."
+  },
+  {
+    "SNO": 1585596,
+    "FileName": "World_DGN_Naha_RuinedWild",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ruined Wild"
+  },
+  {
+    "SNO": 1585596,
+    "FileName": "World_DGN_Naha_RuinedWild",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A place of spirituality is now home to unwelcomed guests."
+  },
+  {
+    "SNO": 1585486,
+    "FileName": "World_DGN_Naha_SeethingUnderpass",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Seething Underpass"
+  },
+  {
+    "SNO": 1585486,
+    "FileName": "World_DGN_Naha_SeethingUnderpass",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Submerged corruption rises from the sunken channels."
+  },
+  {
+    "SNO": 1585603,
+    "FileName": "World_DGN_Naha_SkatsimiFane",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Skatsimi Fane"
+  },
+  {
+    "SNO": 1585603,
+    "FileName": "World_DGN_Naha_SkatsimiFane",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Long deprived of worship, who knows what remains of the old."
+  },
+  {
+    "SNO": 1585610,
+    "FileName": "World_DGN_Naha_SleeplessHollow",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sleepless Hollow"
+  },
+  {
+    "SNO": 1585610,
+    "FileName": "World_DGN_Naha_SleeplessHollow",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "When the dead are forgotten, flesh and bone rise again."
+  },
+  {
+    "SNO": 1585521,
+    "FileName": "World_DGN_Naha_UlarianSepulcher",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ularian Sepulcher"
+  },
+  {
+    "SNO": 1585521,
+    "FileName": "World_DGN_Naha_UlarianSepulcher",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Cursed burial ground, feared by all."
+  },
+  {
+    "SNO": 1585530,
+    "FileName": "World_DGN_Naha_VileHive",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Vile Hive"
+  },
+  {
+    "SNO": 1585530,
+    "FileName": "World_DGN_Naha_VileHive",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The sounds of skittering fiends echo through this foul nest."
+  },
+  {
+    "SNO": 1498609,
+    "FileName": "World_DGN_S02_Kehj_TombofHallows",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Tomb of Hallows"
+  },
+  {
+    "SNO": 1498609,
+    "FileName": "World_DGN_S02_Kehj_TombofHallows",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Death is in the halls. Ancient and fresh. Dying and undying."
+  },
+  {
+    "SNO": 1114264,
+    "FileName": "World_DGN_Scos_Aldurwood",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Aldurwood"
+  },
+  {
+    "SNO": 1114264,
+    "FileName": "World_DGN_Scos_Aldurwood",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "In this corrupted wood, blood runs like sap from the trees."
+  },
+  {
+    "SNO": 1114299,
+    "FileName": "World_DGN_Scos_BrokenBulwark",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Broken Bulwark"
+  },
+  {
+    "SNO": 1114299,
+    "FileName": "World_DGN_Scos_BrokenBulwark",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Once part of Donan's estate, and razed with the rest."
+  },
+  {
+    "SNO": 1113092,
+    "FileName": "World_DGN_Scos_CalibelsMine",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Calibel's Mine"
+  },
+  {
+    "SNO": 1113092,
+    "FileName": "World_DGN_Scos_CalibelsMine",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The bandits that took this mine are ignorant of its secrets."
+  },
+  {
+    "SNO": 1113919,
+    "FileName": "World_DGN_Scos_DemonsWake",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Demon's Wake"
+  },
+  {
+    "SNO": 1113919,
+    "FileName": "World_DGN_Scos_DemonsWake",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The keep still burns in the wake of Lilith\u2019s attack."
+  },
+  {
+    "SNO": 1113857,
+    "FileName": "World_DGN_Scos_DomhainneTunnels",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Domhainne Tunnels"
+  },
+  {
+    "SNO": 1113857,
+    "FileName": "World_DGN_Scos_DomhainneTunnels",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Corbach residents hear the screams from the Khazra\u2019s lair."
+  },
+  {
+    "SNO": 1113946,
+    "FileName": "World_DGN_Scos_FeralsDen",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ferals' Den"
+  },
+  {
+    "SNO": 1113946,
+    "FileName": "World_DGN_Scos_FeralsDen",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A lodge corrupted by the druids' hate."
+  },
+  {
+    "SNO": 1113905,
+    "FileName": "World_DGN_Scos_FloodedDepths",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Flooded Depths"
+  },
+  {
+    "SNO": 1113905,
+    "FileName": "World_DGN_Scos_FloodedDepths",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "More than the waters have made claim to these shipwrecks."
+  },
+  {
+    "SNO": 1113366,
+    "FileName": "World_DGN_Scos_GaranHold",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Garan Hold"
+  },
+  {
+    "SNO": 1113366,
+    "FileName": "World_DGN_Scos_GaranHold",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A once mighty stronghold, doomed to burn."
+  },
+  {
+    "SNO": 1113738,
+    "FileName": "World_DGN_Scos_Hive",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hive"
+  },
+  {
+    "SNO": 1113738,
+    "FileName": "World_DGN_Scos_Hive",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "An insatiable will drives these creatures to feed."
+  },
+  {
+    "SNO": 1113504,
+    "FileName": "World_DGN_Scos_HowlingWarren",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Howling Warren"
+  },
+  {
+    "SNO": 1113504,
+    "FileName": "World_DGN_Scos_HowlingWarren",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A corrupted den of wolves and wargs, hungry for human flesh."
+  },
+  {
+    "SNO": 1114196,
+    "FileName": "World_DGN_Scos_JalalsVigil",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Jalal's Vigil"
+  },
+  {
+    "SNO": 1114196,
+    "FileName": "World_DGN_Scos_JalalsVigil",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A forest, soured by the agony of its own protector."
+  },
+  {
+    "SNO": 1113112,
+    "FileName": "World_DGN_Scos_LubansRest",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Luban's Rest"
+  },
+  {
+    "SNO": 1113112,
+    "FileName": "World_DGN_Scos_LubansRest",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A warrior and her followers have risen from their tombs."
+  },
+  {
+    "SNO": 1114287,
+    "FileName": "World_DGN_Scos_MadduxWatch",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Maddux Watch"
+  },
+  {
+    "SNO": 1114287,
+    "FileName": "World_DGN_Scos_MadduxWatch",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "This abandoned outpost treads atop the dead."
+  },
+  {
+    "SNO": 1113188,
+    "FileName": "World_DGN_Scos_MarinersRefuge",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Mariner's Refuge"
+  },
+  {
+    "SNO": 1113188,
+    "FileName": "World_DGN_Scos_MarinersRefuge",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The Drowned lure shipwrecked sailors to the depths."
+  },
+  {
+    "SNO": 1113090,
+    "FileName": "World_DGN_Scos_Oldstones",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Oldstones"
+  },
+  {
+    "SNO": 1113090,
+    "FileName": "World_DGN_Scos_Oldstones",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Khazra infest the ruined holdfast, ignorant of its curse."
+  },
+  {
+    "SNO": 1113294,
+    "FileName": "World_DGN_Scos_PenitentCairns",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Penitent Cairns"
+  },
+  {
+    "SNO": 1113294,
+    "FileName": "World_DGN_Scos_PenitentCairns",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Glenfolk know to avoid grottoes the spirits hold sacred."
+  },
+  {
+    "SNO": 1113192,
+    "FileName": "World_DGN_Scos_RaethwindWilds",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Raethwind Wilds"
+  },
+  {
+    "SNO": 1113192,
+    "FileName": "World_DGN_Scos_RaethwindWilds",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Too many have vanished into these woods."
+  },
+  {
+    "SNO": 1113484,
+    "FileName": "World_DGN_Scos_SaratsLair",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sarat's Lair"
+  },
+  {
+    "SNO": 1113484,
+    "FileName": "World_DGN_Scos_SaratsLair",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "What once was a wildlife den has become a nest."
+  },
+  {
+    "SNO": 1114089,
+    "FileName": "World_DGN_Scos_Stockades",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Stockades"
+  },
+  {
+    "SNO": 1114089,
+    "FileName": "World_DGN_Scos_Stockades",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "After a riot, this prison was walled off and made a tomb."
+  },
+  {
+    "SNO": 1114193,
+    "FileName": "World_DGN_Scos_SunkenRuins",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sunken Ruins"
+  },
+  {
+    "SNO": 1114193,
+    "FileName": "World_DGN_Scos_SunkenRuins",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Rumors stir of a healer turned renegade necromancer."
+  },
+  {
+    "SNO": 1113763,
+    "FileName": "World_DGN_Scos_TwistedHollow",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Twisted Hollow"
+  },
+  {
+    "SNO": 1113763,
+    "FileName": "World_DGN_Scos_TwistedHollow",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A veritable reservoir of wildlife where answers may lurk."
+  },
+  {
+    "SNO": 1113208,
+    "FileName": "World_DGN_Scos_Underroot",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Underroot"
+  },
+  {
+    "SNO": 1113208,
+    "FileName": "World_DGN_Scos_Underroot",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Ruins deep under T\u00far D\u00falra, its roots thick with rot."
+  },
+  {
+    "SNO": 1113861,
+    "FileName": "World_DGN_Scos_VaultofTheForsaken",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Vault of The Forsaken"
+  },
+  {
+    "SNO": 1113861,
+    "FileName": "World_DGN_Scos_VaultofTheForsaken",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The voices in these flooded caves lure many to their demise."
+  },
+  {
+    "SNO": 1113148,
+    "FileName": "World_DGN_Scos_WhisperingPines",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Whispering Pines"
+  },
+  {
+    "SNO": 1113148,
+    "FileName": "World_DGN_Scos_WhisperingPines",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Astaroth is gone now, but his grip on this keep holds fast."
+  },
+  {
+    "SNO": 1113440,
+    "FileName": "World_DGN_Scos_WretchedDelve",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Wretched Delve"
+  },
+  {
+    "SNO": 1113440,
+    "FileName": "World_DGN_Scos_WretchedDelve",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Demonic plague festers now in the old tombs of T\u00far D\u00falra."
+  },
+  {
+    "SNO": 1113315,
+    "FileName": "World_DGN_Step_AncientsLament",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ancient's Lament"
+  },
+  {
+    "SNO": 1113315,
+    "FileName": "World_DGN_Step_AncientsLament",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A tomb and prison for the anguished souls trapped within."
+  },
+  {
+    "SNO": 1113981,
+    "FileName": "World_DGN_Step_BetrayersRow",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Betrayer's Row"
+  },
+  {
+    "SNO": 1113981,
+    "FileName": "World_DGN_Step_BetrayersRow",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The twisted remains of a town driven mad by envy."
+  },
+  {
+    "SNO": 1113784,
+    "FileName": "World_DGN_Step_BloodsoakedCrag",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Bloodsoaked Crag"
+  },
+  {
+    "SNO": 1113784,
+    "FileName": "World_DGN_Step_BloodsoakedCrag",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A feasting ground for the flesh-hungry."
+  },
+  {
+    "SNO": 1113649,
+    "FileName": "World_DGN_Step_BuriedHalls",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Buried Halls"
+  },
+  {
+    "SNO": 1113649,
+    "FileName": "World_DGN_Step_BuriedHalls",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The Triune fight to reclaim these ancient halls."
+  },
+  {
+    "SNO": 1113331,
+    "FileName": "World_DGN_Step_CarrionFields",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Carrion Fields"
+  },
+  {
+    "SNO": 1113331,
+    "FileName": "World_DGN_Step_CarrionFields",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The defilers of this land were cursed to wander it forever."
+  },
+  {
+    "SNO": 1113184,
+    "FileName": "World_DGN_Step_ChampionsDemise",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Champion's Demise"
+  },
+  {
+    "SNO": 1113184,
+    "FileName": "World_DGN_Step_ChampionsDemise",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Once beautiful homelands now overrun with demons."
+  },
+  {
+    "SNO": 1113766,
+    "FileName": "World_DGN_Step_CharnelHouse",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Charnel House"
+  },
+  {
+    "SNO": 1113766,
+    "FileName": "World_DGN_Step_CharnelHouse",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Bodies are stored here, some still alive. Food for demons."
+  },
+  {
+    "SNO": 1113590,
+    "FileName": "World_DGN_Step_DarkRavine",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Dark Ravine"
+  },
+  {
+    "SNO": 1113590,
+    "FileName": "World_DGN_Step_DarkRavine",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A Triune ritual site. The screams echo far and wide."
+  },
+  {
+    "SNO": 1113401,
+    "FileName": "World_DGN_Step_ForgottenDepths",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Forgotten Depths"
+  },
+  {
+    "SNO": 1113401,
+    "FileName": "World_DGN_Step_ForgottenDepths",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A shadow lies below these hallowed stones."
+  },
+  {
+    "SNO": 1113980,
+    "FileName": "World_DGN_Step_GrinningLabyrinth",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Grinning Labyrinth"
+  },
+  {
+    "SNO": 1113980,
+    "FileName": "World_DGN_Step_GrinningLabyrinth",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "These labyrinthine halls have broken far greater warriors."
+  },
+  {
+    "SNO": 1114146,
+    "FileName": "World_DGN_Step_GuulrahnCanals",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Guulrahn Canals"
+  },
+  {
+    "SNO": 1114146,
+    "FileName": "World_DGN_Step_GuulrahnCanals",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A rot that even the cannibal tyrant will not touch is below."
+  },
+  {
+    "SNO": 1113676,
+    "FileName": "World_DGN_Step_GuulrahnSlums",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Guulrahn Slums"
+  },
+  {
+    "SNO": 1113676,
+    "FileName": "World_DGN_Step_GuulrahnSlums",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Cannibals still hold the streets of the city Guulrahn."
+  },
+  {
+    "SNO": 1113877,
+    "FileName": "World_DGN_Step_KomdorTemple",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Komdor Temple"
+  },
+  {
+    "SNO": 1113877,
+    "FileName": "World_DGN_Step_KomdorTemple",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A Triune sect cursed to forever walk Sanctuary as goatmen."
+  },
+  {
+    "SNO": 1113708,
+    "FileName": "World_DGN_Step_Mournfield",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Mournfield"
+  },
+  {
+    "SNO": 1113708,
+    "FileName": "World_DGN_Step_Mournfield",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "What walks here is living and dead and will rob you."
+  },
+  {
+    "SNO": 1113909,
+    "FileName": "World_DGN_Step_OnyxHold",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Onyx Hold"
+  },
+  {
+    "SNO": 1113909,
+    "FileName": "World_DGN_Step_OnyxHold",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Undead wardens still patrol the halls of this prison."
+  },
+  {
+    "SNO": 1113728,
+    "FileName": "World_DGN_Step_PallidDelve",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Pallid Delve"
+  },
+  {
+    "SNO": 1113728,
+    "FileName": "World_DGN_Step_PallidDelve",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Cannibals guard a dark power in the crumbling mines."
+  },
+  {
+    "SNO": 1113431,
+    "FileName": "World_DGN_Step_PathoftheBlind",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Path of the Blind"
+  },
+  {
+    "SNO": 1113431,
+    "FileName": "World_DGN_Step_PathoftheBlind",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The bloodstained initiation grounds for Triune aspirants."
+  },
+  {
+    "SNO": 1113836,
+    "FileName": "World_DGN_Step_SealedArchives",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sealed Archives"
+  },
+  {
+    "SNO": 1113836,
+    "FileName": "World_DGN_Step_SealedArchives",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "An ancient mage hall. Once refuge, now graveyard."
+  },
+  {
+    "SNO": 1113549,
+    "FileName": "World_DGN_Step_SeasideDescent",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Seaside Descent"
+  },
+  {
+    "SNO": 1113549,
+    "FileName": "World_DGN_Step_SeasideDescent",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A cove nestled among a graveyard of shipwrecks."
+  },
+  {
+    "SNO": 1113768,
+    "FileName": "World_DGN_Step_ShiftingCity",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Shifting City"
+  },
+  {
+    "SNO": 1113768,
+    "FileName": "World_DGN_Step_ShiftingCity",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "These ruins were once a refuge for the people of Qara-Yisu."
+  },
+  {
+    "SNO": 1113812,
+    "FileName": "World_DGN_Step_WhisperingVault",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Whispering Vault"
+  },
+  {
+    "SNO": 1113812,
+    "FileName": "World_DGN_Step_WhisperingVault",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Scholarly halls haunted by whispering spirits of the insane."
+  },
+  {
+    "SNO": 1815143,
+    "FileName": "World_EGD_MSWK_World_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Pit"
+  },
+  {
+    "SNO": 1815143,
+    "FileName": "World_EGD_MSWK_World_01",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A Horadric mystery buried deep in the veins of the land."
+  },
+  {
+    "SNO": 2089211,
+    "FileName": "World_EGD_MSWK_World_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Pit"
+  },
+  {
+    "SNO": 2089211,
+    "FileName": "World_EGD_MSWK_World_02",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A Horadric mystery buried deep in the veins of the land."
+  },
+  {
+    "SNO": 1113443,
+    "FileName": "World_Frac_Underworld",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "City of the Ancients"
+  },
+  {
+    "SNO": 1113059,
+    "FileName": "World_Kehj_Hell",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Burning Hells: Realm of Hatred"
+  },
+  {
+    "SNO": 1114344,
+    "FileName": "World_Kehj_Hell_Sightless_Eye",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sightless Eye"
+  },
+  {
+    "SNO": 1472232,
+    "FileName": "World_Mercenary_Hideout",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Den"
+  },
+  {
+    "SNO": 1564090,
+    "FileName": "World_Nscott_S03_Hub_Ideation",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "S3 Hub World"
+  },
+  {
+    "SNO": 1231764,
+    "FileName": "World_OWC_Frac_GaleValley_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Howling Den"
+  },
+  {
+    "SNO": 1231791,
+    "FileName": "World_OWC_Frac_GaleValley_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Infested Mill"
+  },
+  {
+    "SNO": 1231808,
+    "FileName": "World_OWC_Frac_GaleValley_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Tsepilova Larder"
+  },
+  {
+    "SNO": 1225440,
+    "FileName": "World_OWC_Frac_Glacier_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Collapsed Cavern"
+  },
+  {
+    "SNO": 1225584,
+    "FileName": "World_OWC_Frac_Glacier_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Saint's Rest"
+  },
+  {
+    "SNO": 1225612,
+    "FileName": "World_OWC_Frac_Glacier_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Saint's Hideout"
+  },
+  {
+    "SNO": 1233319,
+    "FileName": "World_OWC_Frac_TaigaEast_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Savina Hideout"
+  },
+  {
+    "SNO": 1233477,
+    "FileName": "World_OWC_Frac_TaigaEast_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Flooded Mine"
+  },
+  {
+    "SNO": 1233940,
+    "FileName": "World_OWC_Frac_TaigaEast_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hermit's Abode"
+  },
+  {
+    "SNO": 1233983,
+    "FileName": "World_OWC_Frac_TaigaEast_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Disturbed Grave"
+  },
+  {
+    "SNO": 1244341,
+    "FileName": "World_OWC_Frac_TaigaSouth_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Infested Cottage"
+  },
+  {
+    "SNO": 1244356,
+    "FileName": "World_OWC_Frac_TaigaSouth_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Frozen Tunnel"
+  },
+  {
+    "SNO": 1244386,
+    "FileName": "World_OWC_Frac_TaigaSouth_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Haunted Burrow"
+  },
+  {
+    "SNO": 1244395,
+    "FileName": "World_OWC_Frac_TaigaSouth_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Forsaken Mine"
+  },
+  {
+    "SNO": 1235186,
+    "FileName": "World_OWC_Frac_TaigaWest_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Lakeside Retreat"
+  },
+  {
+    "SNO": 1235259,
+    "FileName": "World_OWC_Frac_TaigaWest_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Frostbite Delve"
+  },
+  {
+    "SNO": 1235289,
+    "FileName": "World_OWC_Frac_TaigaWest_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Oleg's Hideout"
+  },
+  {
+    "SNO": 1235300,
+    "FileName": "World_OWC_Frac_TaigaWest_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Blacklung Mine"
+  },
+  {
+    "SNO": 1235331,
+    "FileName": "World_OWC_Frac_TaigaWest_05",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Secluded Cabin"
+  },
+  {
+    "SNO": 1226277,
+    "FileName": "World_OWC_Frac_TundraNorth_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Velkhova Inn"
+  },
+  {
+    "SNO": 1226831,
+    "FileName": "World_OWC_Frac_TundraNorth_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Geyser Sinkhole"
+  },
+  {
+    "SNO": 1226933,
+    "FileName": "World_OWC_Frac_TundraNorth_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Gruesome Storage"
+  },
+  {
+    "SNO": 1226945,
+    "FileName": "World_OWC_Frac_TundraNorth_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Bloodstained Cellar"
+  },
+  {
+    "SNO": 1232389,
+    "FileName": "World_OWC_Frac_TundraSouth_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Gambler's Hideout"
+  },
+  {
+    "SNO": 1232656,
+    "FileName": "World_OWC_Frac_TundraSouth_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Icy Grave"
+  },
+  {
+    "SNO": 1232665,
+    "FileName": "World_OWC_Frac_TundraSouth_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Frosty Mine"
+  },
+  {
+    "SNO": 1266804,
+    "FileName": "World_OWC_Hawe_Bog_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sunken Hut"
+  },
+  {
+    "SNO": 1266811,
+    "FileName": "World_OWC_Hawe_Bog_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Swamp Nest"
+  },
+  {
+    "SNO": 1266828,
+    "FileName": "World_OWC_Hawe_Bog_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Mire Hideout"
+  },
+  {
+    "SNO": 1266820,
+    "FileName": "World_OWC_Hawe_Bog_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Tormented Pit"
+  },
+  {
+    "SNO": 1269554,
+    "FileName": "World_OWC_Hawe_Coast_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Tidal Burrow"
+  },
+  {
+    "SNO": 1271432,
+    "FileName": "World_OWC_Hawe_Coast_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Waterlogged Grave"
+  },
+  {
+    "SNO": 1272813,
+    "FileName": "World_OWC_Hawe_Coast_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Aya's Hideaway"
+  },
+  {
+    "SNO": 1274715,
+    "FileName": "World_OWC_Hawe_Coast_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Fetid Hive"
+  },
+  {
+    "SNO": 1268762,
+    "FileName": "World_OWC_Hawe_Crossway_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Rocky Burrow"
+  },
+  {
+    "SNO": 1268769,
+    "FileName": "World_OWC_Hawe_Crossway_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Holy Refuge"
+  },
+  {
+    "SNO": 1268776,
+    "FileName": "World_OWC_Hawe_Crossway_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Commandeered Lodge"
+  },
+  {
+    "SNO": 1267417,
+    "FileName": "World_OWC_Hawe_Delta_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Shipwreck Shack"
+  },
+  {
+    "SNO": 1267425,
+    "FileName": "World_OWC_Hawe_Delta_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Flooded Burial Pit"
+  },
+  {
+    "SNO": 1267432,
+    "FileName": "World_OWC_Hawe_Delta_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Swamp Hovel"
+  },
+  {
+    "SNO": 1267443,
+    "FileName": "World_OWC_Hawe_Delta_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Decaying Cavern"
+  },
+  {
+    "SNO": 1267743,
+    "FileName": "World_OWC_Hawe_Fens_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Rotting Cave"
+  },
+  {
+    "SNO": 1267750,
+    "FileName": "World_OWC_Hawe_Fens_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Shoreside Shack"
+  },
+  {
+    "SNO": 1267766,
+    "FileName": "World_OWC_Hawe_Fens_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Toxic Mine"
+  },
+  {
+    "SNO": 1271388,
+    "FileName": "World_OWC_Hawe_Marsh_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Slimy Cavern"
+  },
+  {
+    "SNO": 1271395,
+    "FileName": "World_OWC_Hawe_Marsh_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Bleak Basement"
+  },
+  {
+    "SNO": 1271402,
+    "FileName": "World_OWC_Hawe_Marsh_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Swarmed Mineshaft"
+  },
+  {
+    "SNO": 1264977,
+    "FileName": "World_OWC_Hawe_Verge_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Bloodpox Infestation"
+  },
+  {
+    "SNO": 1265128,
+    "FileName": "World_OWC_Hawe_Verge_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Cinder Shack"
+  },
+  {
+    "SNO": 1265261,
+    "FileName": "World_OWC_Hawe_Verge_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Feeding Den"
+  },
+  {
+    "SNO": 1265270,
+    "FileName": "World_OWC_Hawe_Verge_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Mountain Storeroom"
+  },
+  {
+    "SNO": 1268783,
+    "FileName": "World_OWC_Hawe_Wetland_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Desecrated Cellar"
+  },
+  {
+    "SNO": 1268792,
+    "FileName": "World_OWC_Hawe_Wetland_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Dark Catacomb"
+  },
+  {
+    "SNO": 1268800,
+    "FileName": "World_OWC_Hawe_Wetland_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Cursed Cabin"
+  },
+  {
+    "SNO": 1268807,
+    "FileName": "World_OWC_Hawe_Wetland_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Swamped Hideout"
+  },
+  {
+    "SNO": 1271902,
+    "FileName": "World_OWC_Kehj_Caldeum_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Deserted Textile Shop"
+  },
+  {
+    "SNO": 1271910,
+    "FileName": "World_OWC_Kehj_Caldeum_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Penitent Temple"
+  },
+  {
+    "SNO": 1271926,
+    "FileName": "World_OWC_Kehj_Caldeum_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "City Armory"
+  },
+  {
+    "SNO": 1271941,
+    "FileName": "World_OWC_Kehj_Caldeum_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Knight's Lodging"
+  },
+  {
+    "SNO": 1338896,
+    "FileName": "World_OWC_Kehj_Caldeum_05",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Derelict Tunnel"
+  },
+  {
+    "SNO": 1265002,
+    "FileName": "World_OWC_Kehj_HighDesert_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Festering Tunnels"
+  },
+  {
+    "SNO": 1265597,
+    "FileName": "World_OWC_Kehj_HighDesert_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Man-eaters' Lair"
+  },
+  {
+    "SNO": 1267112,
+    "FileName": "World_OWC_Kehj_HighDesert_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Blighted Burrow"
+  },
+  {
+    "SNO": 1267398,
+    "FileName": "World_OWC_Kehj_HighDesert_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ravaged Ruins"
+  },
+  {
+    "SNO": 1267504,
+    "FileName": "World_OWC_Kehj_HighDesert_05",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Foul Grotto"
+  },
+  {
+    "SNO": 1267786,
+    "FileName": "World_OWC_Kehj_HighDesert_06",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Bone Dust Hollow"
+  },
+  {
+    "SNO": 1271620,
+    "FileName": "World_OWC_Kehj_LowDesert_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hakan's Hot Spring"
+  },
+  {
+    "SNO": 1271668,
+    "FileName": "World_OWC_Kehj_LowDesert_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Marauder's Hideaway"
+  },
+  {
+    "SNO": 1271804,
+    "FileName": "World_OWC_Kehj_LowDesert_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Wicked Sanctum"
+  },
+  {
+    "SNO": 1271851,
+    "FileName": "World_OWC_Kehj_LowDesert_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Webbed Den"
+  },
+  {
+    "SNO": 1275073,
+    "FileName": "World_OWC_Kehj_Oasis_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Festering Burrow"
+  },
+  {
+    "SNO": 1275082,
+    "FileName": "World_OWC_Kehj_Oasis_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Forgotten Outpost"
+  },
+  {
+    "SNO": 1275089,
+    "FileName": "World_OWC_Kehj_Oasis_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sodden Burrow"
+  },
+  {
+    "SNO": 1275096,
+    "FileName": "World_OWC_Kehj_Oasis_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ravan's Folly"
+  },
+  {
+    "SNO": 1268894,
+    "FileName": "World_OWC_Kehj_Ridge_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Raider's Mine"
+  },
+  {
+    "SNO": 1269126,
+    "FileName": "World_OWC_Kehj_Ridge_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Foul Den"
+  },
+  {
+    "SNO": 1269430,
+    "FileName": "World_OWC_Kehj_Ridge_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Rancid Vermin Nest"
+  },
+  {
+    "SNO": 1270406,
+    "FileName": "World_OWC_Kehj_Ridge_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sandy Ruins"
+  },
+  {
+    "SNO": 1270564,
+    "FileName": "World_OWC_Kehj_Ridge_05",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Forlorn Cavern"
+  },
+  {
+    "SNO": 1270664,
+    "FileName": "World_OWC_Kehj_Ridge_06",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hellish Pit"
+  },
+  {
+    "SNO": 1270689,
+    "FileName": "World_OWC_Kehj_Ridge_07",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Groundskeeper's Shed"
+  },
+  {
+    "SNO": 1677950,
+    "FileName": "World_OWC_Naha_FieldOfGiants_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Dismal Gully"
+  },
+  {
+    "SNO": 1677958,
+    "FileName": "World_OWC_Naha_FieldOfGiants_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Bone Den"
+  },
+  {
+    "SNO": 1677965,
+    "FileName": "World_OWC_Naha_FieldOfGiants_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Yawning Crevice"
+  },
+  {
+    "SNO": 1677974,
+    "FileName": "World_OWC_Naha_FieldOfGiants_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Profane Cavern"
+  },
+  {
+    "SNO": 1763307,
+    "FileName": "World_OWC_Naha_FiveHills_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Deserted Chultun"
+  },
+  {
+    "SNO": 1763624,
+    "FileName": "World_OWC_Naha_FiveHills_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Humid Hollow"
+  },
+  {
+    "SNO": 1763654,
+    "FileName": "World_OWC_Naha_FiveHills_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Grim Midden"
+  },
+  {
+    "SNO": 1763699,
+    "FileName": "World_OWC_Naha_FiveHills_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Nascent Hive"
+  },
+  {
+    "SNO": 1763707,
+    "FileName": "World_OWC_Naha_FiveHills_05",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Putrid Bodypit"
+  },
+  {
+    "SNO": 1679801,
+    "FileName": "World_OWC_Naha_LingeringHatred_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Corrupted Cavity"
+  },
+  {
+    "SNO": 1679803,
+    "FileName": "World_OWC_Naha_LingeringHatred_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Festering Sink"
+  },
+  {
+    "SNO": 1679805,
+    "FileName": "World_OWC_Naha_LingeringHatred_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Gloomy Cenote"
+  },
+  {
+    "SNO": 1679807,
+    "FileName": "World_OWC_Naha_LingeringHatred_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Charred Refuge"
+  },
+  {
+    "SNO": 1679809,
+    "FileName": "World_OWC_Naha_LingeringHatred_05",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Malignant Incursion"
+  },
+  {
+    "SNO": 1675769,
+    "FileName": "World_OWC_Naha_RestlessCanopy_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Horrid Pothole"
+  },
+  {
+    "SNO": 1675778,
+    "FileName": "World_OWC_Naha_RestlessCanopy_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Overgrown Shelter"
+  },
+  {
+    "SNO": 1675787,
+    "FileName": "World_OWC_Naha_RestlessCanopy_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Serpent's Den"
+  },
+  {
+    "SNO": 1675794,
+    "FileName": "World_OWC_Naha_RestlessCanopy_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Gregg's Hideaway"
+  },
+  {
+    "SNO": 1675803,
+    "FileName": "World_OWC_Naha_RestlessCanopy_05",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Restless Remains"
+  },
+  {
+    "SNO": 1770063,
+    "FileName": "World_OWC_Naha_SevenStones_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Buzzing Burrow"
+  },
+  {
+    "SNO": 1770071,
+    "FileName": "World_OWC_Naha_SevenStones_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Defiled Grotto"
+  },
+  {
+    "SNO": 1770078,
+    "FileName": "World_OWC_Naha_SevenStones_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Forlorn Burrow"
+  },
+  {
+    "SNO": 1770095,
+    "FileName": "World_OWC_Naha_SevenStones_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hunter's Pool"
+  },
+  {
+    "SNO": 1770119,
+    "FileName": "World_OWC_Naha_SevenStones_05",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Noxious Cave"
+  },
+  {
+    "SNO": 1677882,
+    "FileName": "World_OWC_Naha_TeganzePlateau_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hallowed Quarry"
+  },
+  {
+    "SNO": 1677897,
+    "FileName": "World_OWC_Naha_TeganzePlateau_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sunbaked Overlook"
+  },
+  {
+    "SNO": 1677904,
+    "FileName": "World_OWC_Naha_TeganzePlateau_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Cliffside Ravine"
+  },
+  {
+    "SNO": 1677911,
+    "FileName": "World_OWC_Naha_TeganzePlateau_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Bloody Gulch"
+  },
+  {
+    "SNO": 1211052,
+    "FileName": "World_OWC_Scos_Coast_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Forgotten Shack"
+  },
+  {
+    "SNO": 1211244,
+    "FileName": "World_OWC_Scos_Coast_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Rotting Outhouse"
+  },
+  {
+    "SNO": 1211255,
+    "FileName": "World_OWC_Scos_Coast_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Watery Sinkhole"
+  },
+  {
+    "SNO": 1211779,
+    "FileName": "World_OWC_Scos_DeepForest_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Webbed Lode"
+  },
+  {
+    "SNO": 1211869,
+    "FileName": "World_OWC_Scos_DeepForest_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Fisherman's Rest"
+  },
+  {
+    "SNO": 1211908,
+    "FileName": "World_OWC_Scos_DeepForest_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Lost Ritual Site"
+  },
+  {
+    "SNO": 1113986,
+    "FileName": "World_OWC_Scos_Downs_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Decrepit Cellar"
+  },
+  {
+    "SNO": 1189559,
+    "FileName": "World_OWC_Scos_Downs_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Disturbed Arachnid Tunnels"
+  },
+  {
+    "SNO": 1189566,
+    "FileName": "World_OWC_Scos_Downs_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Wretch's Stow"
+  },
+  {
+    "SNO": 1212812,
+    "FileName": "World_OWC_Scos_HighForest_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Moldy Cavern"
+  },
+  {
+    "SNO": 1213221,
+    "FileName": "World_OWC_Scos_Highlands_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Nefarious Hollow"
+  },
+  {
+    "SNO": 1213276,
+    "FileName": "World_OWC_Scos_Highlands_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Remote Shelter"
+  },
+  {
+    "SNO": 1213316,
+    "FileName": "World_OWC_Scos_Highlands_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hillside Storage"
+  },
+  {
+    "SNO": 1210413,
+    "FileName": "World_OWC_Scos_Hills_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Abandoned Cottage"
+  },
+  {
+    "SNO": 1210504,
+    "FileName": "World_OWC_Scos_Hills_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Infested Basement"
+  },
+  {
+    "SNO": 1205006,
+    "FileName": "World_OWC_Scos_LochRaeth_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Drowned Burrow"
+  },
+  {
+    "SNO": 1207170,
+    "FileName": "World_OWC_Scos_LochRaeth_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Garan Undercroft"
+  },
+  {
+    "SNO": 1207230,
+    "FileName": "World_OWC_Scos_LochRaeth_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ancient Grave"
+  },
+  {
+    "SNO": 1207249,
+    "FileName": "World_OWC_Scos_LochRaeth_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Scorched Cellar"
+  },
+  {
+    "SNO": 1212652,
+    "FileName": "World_OWC_Scos_Lowlands_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Smugglers' Underpass"
+  },
+  {
+    "SNO": 1212729,
+    "FileName": "World_OWC_Scos_Lowlands_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Meat Locker"
+  },
+  {
+    "SNO": 1213064,
+    "FileName": "World_OWC_Scos_Moors_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Overgrown Outpost"
+  },
+  {
+    "SNO": 1213101,
+    "FileName": "World_OWC_Scos_Moors_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Infested Pit"
+  },
+  {
+    "SNO": 1335953,
+    "FileName": "World_OWC_Special",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Forlorn Hovel"
+  },
+  {
+    "SNO": 1239392,
+    "FileName": "World_OWC_Step_Basin_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Bloodsoaked Spence"
+  },
+  {
+    "SNO": 1243810,
+    "FileName": "World_OWC_Step_CentralCanyon_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Abahru Sinkhole"
+  },
+  {
+    "SNO": 1237697,
+    "FileName": "World_OWC_Step_Central_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Decrepit Hive"
+  },
+  {
+    "SNO": 1241599,
+    "FileName": "World_OWC_Step_Coast_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Eroded Cove"
+  },
+  {
+    "SNO": 1241616,
+    "FileName": "World_OWC_Step_Coast_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Seaside Cavern"
+  },
+  {
+    "SNO": 1241646,
+    "FileName": "World_OWC_Step_Coast_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hinterlands Shelter"
+  },
+  {
+    "SNO": 1239992,
+    "FileName": "World_OWC_Step_Eastern_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Desolate Vault"
+  },
+  {
+    "SNO": 1240551,
+    "FileName": "World_OWC_Step_Eastern_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Dark Hollow"
+  },
+  {
+    "SNO": 1240572,
+    "FileName": "World_OWC_Step_Eastern_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Dusty Mineshaft"
+  },
+  {
+    "SNO": 1240579,
+    "FileName": "World_OWC_Step_Eastern_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Abandoned Mineshaft"
+  },
+  {
+    "SNO": 1236504,
+    "FileName": "World_OWC_Step_Grasslands_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Fetid Pit"
+  },
+  {
+    "SNO": 1236622,
+    "FileName": "World_OWC_Step_Grasslands_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Briny Cavern"
+  },
+  {
+    "SNO": 1236646,
+    "FileName": "World_OWC_Step_Grasslands_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Grain Storage"
+  },
+  {
+    "SNO": 1236685,
+    "FileName": "World_OWC_Step_Grasslands_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Arid Tunnel"
+  },
+  {
+    "SNO": 1237747,
+    "FileName": "World_OWC_Step_Grasslands_05",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Cutpurse's Hoard"
+  },
+  {
+    "SNO": 1240701,
+    "FileName": "World_OWC_Step_South_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Barren Cave"
+  },
+  {
+    "SNO": 1240709,
+    "FileName": "World_OWC_Step_South_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Marauder's Hideaway"
+  },
+  {
+    "SNO": 1240724,
+    "FileName": "World_OWC_Step_South_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Cannibals' Hold"
+  },
+  {
+    "SNO": 1240731,
+    "FileName": "World_OWC_Step_South_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sun-Bleached Excavation"
+  },
+  {
+    "SNO": 1239446,
+    "FileName": "World_OWC_Step_Volcano_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Rotting Pit"
+  },
+  {
+    "SNO": 1239475,
+    "FileName": "World_OWC_Step_Volcano_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Steamy Chasm"
+  },
+  {
+    "SNO": 1237459,
+    "FileName": "World_OWC_Step_WesternFlats_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Cannibals' Foothold"
+  },
+  {
+    "SNO": 1237493,
+    "FileName": "World_OWC_Step_WesternFlats_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Monk's Retreat"
+  },
+  {
+    "SNO": 1874923,
+    "FileName": "World_QST_BSK_CSD_Hawe_Wetland_ZakFortCrypts",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Foul Undercrypts"
+  },
+  {
+    "SNO": 1874923,
+    "FileName": "World_QST_BSK_CSD_Hawe_Wetland_ZakFortCrypts",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The sealed resting place of the Que-Hegan Sankekur."
+  },
+  {
+    "SNO": 1815948,
+    "FileName": "World_QST_BloomWhereYouArePlanted_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Umija's Garden"
+  },
+  {
+    "SNO": 1815948,
+    "FileName": "World_QST_BloomWhereYouArePlanted_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A subterranean shrubbery cultivating Umija's profane plants."
+  },
+  {
+    "SNO": 1228398,
+    "FileName": "World_QST_Class_Barb_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Charnel Cave"
+  },
+  {
+    "SNO": 1228398,
+    "FileName": "World_QST_Class_Barb_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "P:ermeated by a faint scent of desiccating remains"
+  },
+  {
+    "SNO": 1249576,
+    "FileName": "World_QST_Class_Necro_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Bitter Cave"
+  },
+  {
+    "SNO": 1249576,
+    "FileName": "World_QST_Class_Necro_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A cavern cold enough to freeze your breath on your face."
+  },
+  {
+    "SNO": 1233601,
+    "FileName": "World_QST_Class_Sorc_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Abandoned Shack"
+  },
+  {
+    "SNO": 1233601,
+    "FileName": "World_QST_Class_Sorc_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The cellar of an old homestead, abandoned to the elements."
+  },
+  {
+    "SNO": 1720762,
+    "FileName": "World_QST_Class_Spirit_SacredHunt",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sacred Hunting Grounds"
+  },
+  {
+    "SNO": 1720762,
+    "FileName": "World_QST_Class_Spirit_SacredHunt",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Follow the hallowed path."
+  },
+  {
+    "SNO": 1113885,
+    "FileName": "World_QST_Frac_AncestralCall",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Hallowed Glacier"
+  },
+  {
+    "SNO": 1113885,
+    "FileName": "World_QST_Frac_AncestralCall",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The Glacial Tunnels beneath the Bear Tribe encampment."
+  },
+  {
+    "SNO": 1113424,
+    "FileName": "World_QST_Frac_CutthroatsEscape",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Cutthroat's Escape"
+  },
+  {
+    "SNO": 1113424,
+    "FileName": "World_QST_Frac_CutthroatsEscape",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The bandit hideout has to have Perithan, hopefully alive."
+  },
+  {
+    "SNO": 1333255,
+    "FileName": "World_QST_Frac_Inheritance_01_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Red Cellar"
+  },
+  {
+    "SNO": 1198280,
+    "FileName": "World_QST_Frac_Inheritance_02_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sanctified Study"
+  },
+  {
+    "SNO": 1455791,
+    "FileName": "World_QST_Frac_Lilith_Blood_03_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Elysiuma Archive"
+  },
+  {
+    "SNO": 1114195,
+    "FileName": "World_QST_Frac_MaladyOfTheSoul_Cellar_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Frigid Cellar"
+  },
+  {
+    "SNO": 1114195,
+    "FileName": "World_QST_Frac_MaladyOfTheSoul_Cellar_01",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Sister Octavia has invited you to witness a miracle."
+  },
+  {
+    "SNO": 1114253,
+    "FileName": "World_QST_Frac_MaladyOfTheSoul_Cellar_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ominous Cellar"
+  },
+  {
+    "SNO": 1114253,
+    "FileName": "World_QST_Frac_MaladyOfTheSoul_Cellar_02",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Kvera's husband has been locked inside for his own safety."
+  },
+  {
+    "SNO": 1235737,
+    "FileName": "World_QST_Frac_MaladyOfTheSoul_Cellar_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ominous Cellar"
+  },
+  {
+    "SNO": 1235737,
+    "FileName": "World_QST_Frac_MaladyOfTheSoul_Cellar_03",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Kvera and Petr shelter Sister Octavia from prying eyes."
+  },
+  {
+    "SNO": 1237064,
+    "FileName": "World_QST_Frac_MaladyOfTheSoul_Cellar_04",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ominous Cellar"
+  },
+  {
+    "SNO": 1237064,
+    "FileName": "World_QST_Frac_MaladyOfTheSoul_Cellar_04",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Kvera and Petr shelter Sister Octavia from prying eyes."
+  },
+  {
+    "SNO": 1201849,
+    "FileName": "World_QST_Frac_MaladyoftheSoul",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kyovashad Sewers"
+  },
+  {
+    "SNO": 1201849,
+    "FileName": "World_QST_Frac_MaladyoftheSoul",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The cavernous, filth-strewn caves beneath Kyovashad."
+  },
+  {
+    "SNO": 1262624,
+    "FileName": "World_QST_FuryAgainstFate_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Wasting Hollow"
+  },
+  {
+    "SNO": 1262624,
+    "FileName": "World_QST_FuryAgainstFate_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A bloodstained feeding ground of the cannibal horde."
+  },
+  {
+    "SNO": 1185019,
+    "FileName": "World_QST_Hawe_AtAnyCost_StrangeRefuge",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Strange Refuge"
+  },
+  {
+    "SNO": 1682451,
+    "FileName": "World_QST_Hawe_BountyHunter_Acquisition_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Smuggler's Bunker"
+  },
+  {
+    "SNO": 1682451,
+    "FileName": "World_QST_Hawe_BountyHunter_Acquisition_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A den of thieves carved out of an ancient ruin."
+  },
+  {
+    "SNO": 1684476,
+    "FileName": "World_QST_Hawe_BountyHunter_Acquisition_Dungeon",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Windswept Altar"
+  },
+  {
+    "SNO": 1684476,
+    "FileName": "World_QST_Hawe_BountyHunter_Acquisition_Dungeon",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A fetid swamp where bandits make ill-gotten offerings."
+  },
+  {
+    "SNO": 1275272,
+    "FileName": "World_QST_Hawe_Coast_Lyndon_02_A_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Secluded Clearing"
+  },
+  {
+    "SNO": 1275272,
+    "FileName": "World_QST_Hawe_Coast_Lyndon_02_A_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Only Lyndon and the Drowned know of this hidden clearing."
+  },
+  {
+    "SNO": 1275279,
+    "FileName": "World_QST_Hawe_Coast_Lyndon_02_B_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Quiet Clearing"
+  },
+  {
+    "SNO": 1275279,
+    "FileName": "World_QST_Hawe_Coast_Lyndon_02_B_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A hidden clearing Lyndon uses to stash \"the good stuff.\""
+  },
+  {
+    "SNO": 1261985,
+    "FileName": "World_QST_Hawe_Coast_Lyndon_02_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Isolated Shack"
+  },
+  {
+    "SNO": 1261985,
+    "FileName": "World_QST_Hawe_Coast_Lyndon_02_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A remote, unassuming shack, perfect for discreet meetings."
+  },
+  {
+    "SNO": 1264045,
+    "FileName": "World_QST_Hawe_Coast_Lyndon_03_Orton_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Backwater Storage Cellar"
+  },
+  {
+    "SNO": 1264045,
+    "FileName": "World_QST_Hawe_Coast_Lyndon_03_Orton_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A simple hole in the ground used by the people of Backwater."
+  },
+  {
+    "SNO": 1193345,
+    "FileName": "World_QST_Hawe_EliasQuest",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Halls of Dark Portent"
+  },
+  {
+    "SNO": 1193345,
+    "FileName": "World_QST_Hawe_EliasQuest",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Elias entered the dark passages underneath the Esret chapel."
+  },
+  {
+    "SNO": 1113058,
+    "FileName": "World_QST_Hawe_PoisonedHearts_HiddenAltar",
+    "Index": 0,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "An ancient clearing pulsing with the magic of the swamps."
+  },
+  {
+    "SNO": 1113058,
+    "FileName": "World_QST_Hawe_PoisonedHearts_HiddenAltar",
+    "Index": 1,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hidden Glade"
+  },
+  {
+    "SNO": 1113320,
+    "FileName": "World_QST_Hawe_SealedQuarters",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Defiled Halls"
+  },
+  {
+    "SNO": 1113320,
+    "FileName": "World_QST_Hawe_SealedQuarters",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Once a monument to faith, evil has left these halls twisted."
+  },
+  {
+    "SNO": 1203021,
+    "FileName": "World_QST_Hawe_TaissaQuest",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Taissa's Memories"
+  },
+  {
+    "SNO": 1203021,
+    "FileName": "World_QST_Hawe_TaissaQuest",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Through occult magic, Taissa has allowed us into her mind."
+  },
+  {
+    "SNO": 1114227,
+    "FileName": "World_QST_Hawe_TheHeretic_Cave",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Forgotten Cave"
+  },
+  {
+    "SNO": 1198265,
+    "FileName": "World_QST_Hawe_Verge_Taissa_01_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hungering Swamp"
+  },
+  {
+    "SNO": 1198265,
+    "FileName": "World_QST_Hawe_Verge_Taissa_01_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Powerful ritual magic suffuses this place."
+  },
+  {
+    "SNO": 1202780,
+    "FileName": "World_QST_Hawe_Verge_Taissa_02_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Eldritch Conclave"
+  },
+  {
+    "SNO": 1202780,
+    "FileName": "World_QST_Hawe_Verge_Taissa_02_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A hidden meeting place for the witches of Hawezar."
+  },
+  {
+    "SNO": 2018538,
+    "FileName": "World_QST_Hell_Intro_03_BSK",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Infernal Hordes"
+  },
+  {
+    "SNO": 2018538,
+    "FileName": "World_QST_Hell_Intro_03_BSK",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Return to Hell. Fight for Sanctuary."
+  },
+  {
+    "SNO": 1197542,
+    "FileName": "World_QST_HungerforaNewLife_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Zolaya's Hideout"
+  },
+  {
+    "SNO": 1113212,
+    "FileName": "World_QST_Kehj_Caldeum_Remnants",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hideout Entrance"
+  },
+  {
+    "SNO": 1113212,
+    "FileName": "World_QST_Kehj_Caldeum_Remnants",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "This entrance was obstructed by rubble."
+  },
+  {
+    "SNO": 1113119,
+    "FileName": "World_QST_Kehj_Infection_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Mahjoob's Safehouse"
+  },
+  {
+    "SNO": 1113119,
+    "FileName": "World_QST_Kehj_Infection_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A place of reprieve for the Kehjistani guide."
+  },
+  {
+    "SNO": 1202763,
+    "FileName": "World_QST_Kehj_LadyOasis_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Vizjerei Athenaeum"
+  },
+  {
+    "SNO": 1202763,
+    "FileName": "World_QST_Kehj_LadyOasis_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Ruins belonging to the once great Vizjerei Mage Clan."
+  },
+  {
+    "SNO": 1205831,
+    "FileName": "World_QST_Kehj_LonelyWolf",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Tunnels Beneath The Oasis"
+  },
+  {
+    "SNO": 1205831,
+    "FileName": "World_QST_Kehj_LonelyWolf",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Sharp acrid smells seep from the hidden caverns."
+  },
+  {
+    "SNO": 1236786,
+    "FileName": "World_QST_Kehj_Oasis_LonelyWolf_03_BanditHideoutCellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Triune Hideout"
+  },
+  {
+    "SNO": 1236786,
+    "FileName": "World_QST_Kehj_Oasis_LonelyWolf_03_BanditHideoutCellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Under the Iron Wolves' noses, Triune plot and connive."
+  },
+  {
+    "SNO": 1284160,
+    "FileName": "World_QST_Kehj_Penitent_02_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Commandeered House"
+  },
+  {
+    "SNO": 1284160,
+    "FileName": "World_QST_Kehj_Penitent_02_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A residence forcibly taken over by the Knights Penitent"
+  },
+  {
+    "SNO": 1113977,
+    "FileName": "World_QST_Kehj_Penitent_04_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Osric's garrison"
+  },
+  {
+    "SNO": 1113977,
+    "FileName": "World_QST_Kehj_Penitent_04_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A home commandeered as a base by the Knights Penitent"
+  },
+  {
+    "SNO": 1113383,
+    "FileName": "World_QST_Kehj_TriuneRitual_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Mysterious Gateway"
+  },
+  {
+    "SNO": 1113383,
+    "FileName": "World_QST_Kehj_TriuneRitual_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A hellish portal of unknown contents."
+  },
+  {
+    "SNO": 1210346,
+    "FileName": "World_QST_MalignDevotion_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Lost Monument Crypt"
+  },
+  {
+    "SNO": 1707185,
+    "FileName": "World_QST_Merc_Hideout",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ancient Ruins"
+  },
+  {
+    "SNO": 1707185,
+    "FileName": "World_QST_Merc_Hideout",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Beyond the dangers within lies the promise of safety."
+  },
+  {
+    "SNO": 1602919,
+    "FileName": "World_QST_Merc_X1_BerserkerCrone_Cellar_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Fetid Larder"
+  },
+  {
+    "SNO": 1602919,
+    "FileName": "World_QST_Merc_X1_BerserkerCrone_Cellar_01",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A cannibal larder stocked with human flesh"
+  },
+  {
+    "SNO": 1605742,
+    "FileName": "World_QST_Merc_X1_BerserkerCrone_Cellar_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Grelkar's Feast Hall"
+  },
+  {
+    "SNO": 1605742,
+    "FileName": "World_QST_Merc_X1_BerserkerCrone_Cellar_02",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The hidden feast hall of the cannibal chieftain Grelkar"
+  },
+  {
+    "SNO": 1655417,
+    "FileName": "World_QST_Merc_X1_BerserkerCrone_Dungeon",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Arena of Guulrahn"
+  },
+  {
+    "SNO": 1655417,
+    "FileName": "World_QST_Merc_X1_BerserkerCrone_Dungeon",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A popular venue for political dealings and blood sports"
+  },
+  {
+    "SNO": 1732960,
+    "FileName": "World_QST_Naha_BestialSoulOfTeganze",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Nyamoyo's Rift"
+  },
+  {
+    "SNO": 1732960,
+    "FileName": "World_QST_Naha_BestialSoulOfTeganze",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The path to the sacred dominion of Nyamoyo."
+  },
+  {
+    "SNO": 1617697,
+    "FileName": "World_QST_Naha_CursedChild_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Abandoned Ruin"
+  },
+  {
+    "SNO": 1617697,
+    "FileName": "World_QST_Naha_CursedChild_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Overgrown ruins of a destroyed residence."
+  },
+  {
+    "SNO": 2013838,
+    "FileName": "World_QST_Naha_CursedChild_CitadelBackroom_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Covert Passage"
+  },
+  {
+    "SNO": 2013838,
+    "FileName": "World_QST_Naha_CursedChild_CitadelBackroom_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A small, hidden passageway leading into the Dark Citadel."
+  },
+  {
+    "SNO": 1648288,
+    "FileName": "World_QST_Naha_FiveHills_02_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hallowed Cavity"
+  },
+  {
+    "SNO": 1648288,
+    "FileName": "World_QST_Naha_FiveHills_02_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A secret place below Samuk that keeps a holy relic."
+  },
+  {
+    "SNO": 1703916,
+    "FileName": "World_QST_Naha_GoNative_Cellar_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Faith's Torch: Knight Command Quarter"
+  },
+  {
+    "SNO": 2013827,
+    "FileName": "World_QST_Naha_LingeringHatred_02_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Madman's Archive"
+  },
+  {
+    "SNO": 2013827,
+    "FileName": "World_QST_Naha_LingeringHatred_02_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Knowledge was scrounged and scribbled, here."
+  },
+  {
+    "SNO": 1784507,
+    "FileName": "World_QST_Naha_ScalesOfHistory_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Mage Clan Ruins"
+  },
+  {
+    "SNO": 1784507,
+    "FileName": "World_QST_Naha_ScalesOfHistory_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The ancient stones have long since given way to the jungle."
+  },
+  {
+    "SNO": 1726190,
+    "FileName": "World_QST_Naha_SevenStones_EverythingOld_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Deceiver's Sanctum"
+  },
+  {
+    "SNO": 1726190,
+    "FileName": "World_QST_Naha_SevenStones_EverythingOld_02",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The shadowed refuge of an ancient and malicious entity."
+  },
+  {
+    "SNO": 1741050,
+    "FileName": "World_QST_Naha_SevenStones_EverythingOld_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Deceiver's Sanctum"
+  },
+  {
+    "SNO": 1741050,
+    "FileName": "World_QST_Naha_SevenStones_EverythingOld_03",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The shadowed refuge of an ancient and malicious entity."
+  },
+  {
+    "SNO": 1764389,
+    "FileName": "World_QST_Naha_SevenStones_GoingNative",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Temple of the Profane"
+  },
+  {
+    "SNO": 1805302,
+    "FileName": "World_QST_Naha_ShroudofWrath_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Craggy Recess"
+  },
+  {
+    "SNO": 1805302,
+    "FileName": "World_QST_Naha_ShroudofWrath_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A clandestine retreat burrowed within the stones of Teganze."
+  },
+  {
+    "SNO": 1862035,
+    "FileName": "World_QST_Naha_SinProxy3_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Breached Anchorage"
+  },
+  {
+    "SNO": 1768598,
+    "FileName": "World_QST_Naha_TheWitness",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Burned Knight Trial"
+  },
+  {
+    "SNO": 1768598,
+    "FileName": "World_QST_Naha_TheWitness",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Hidden away, Burned Knights gather their strength."
+  },
+  {
+    "SNO": 1767904,
+    "FileName": "World_QST_Naha_TheWitness_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Fetid Cellar"
+  },
+  {
+    "SNO": 1767904,
+    "FileName": "World_QST_Naha_TheWitness_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A small hole in the ground that seeps menace."
+  },
+  {
+    "SNO": 1472239,
+    "FileName": "World_QST_S02_Main_01_Scos_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Wayside Cave"
+  },
+  {
+    "SNO": 1472239,
+    "FileName": "World_QST_S02_Main_01_Scos_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Within the small and lonesome cavern, something thirsts."
+  },
+  {
+    "SNO": 1468253,
+    "FileName": "World_QST_S02_Main_01_Step_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Magistrate's Office"
+  },
+  {
+    "SNO": 1468253,
+    "FileName": "World_QST_S02_Main_01_Step_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Blood Money: A Magistrate calls for aid."
+  },
+  {
+    "SNO": 1490379,
+    "FileName": "World_QST_S02_Main_02_Cellar_SafeHouse",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Magistrate's Office"
+  },
+  {
+    "SNO": 1490379,
+    "FileName": "World_QST_S02_Main_02_Cellar_SafeHouse",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Hunter's Chase: The Magistrate must answer for this."
+  },
+  {
+    "SNO": 1513266,
+    "FileName": "World_QST_S02_Main_03_Step_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Magistrate's Office"
+  },
+  {
+    "SNO": 1513266,
+    "FileName": "World_QST_S02_Main_03_Step_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Summons of the Deathless: Know your enemy."
+  },
+  {
+    "SNO": 1490495,
+    "FileName": "World_QST_S02_Main_05_Cellar_SafeHouse",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Magistrate's Office"
+  },
+  {
+    "SNO": 1490495,
+    "FileName": "World_QST_S02_Main_05_Cellar_SafeHouse",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A Witness in the Dust: Help comes in strange ways."
+  },
+  {
+    "SNO": 1479575,
+    "FileName": "World_QST_S02_Main_07_Step_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Magistrate's Office"
+  },
+  {
+    "SNO": 1479575,
+    "FileName": "World_QST_S02_Main_07_Step_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Wolves at the Door: A hitch in the plan."
+  },
+  {
+    "SNO": 1515912,
+    "FileName": "World_QST_S02_Main_09_Step_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Magistrate's Office"
+  },
+  {
+    "SNO": 1515912,
+    "FileName": "World_QST_S02_Main_09_Step_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Battle of Fear and Faith: The Ascension is disrupted."
+  },
+  {
+    "SNO": 1490536,
+    "FileName": "World_QST_S02_Main_12_Cellar_SafeHouse",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Magistrate's Office"
+  },
+  {
+    "SNO": 1490536,
+    "FileName": "World_QST_S02_Main_12_Cellar_SafeHouse",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "In Your Blood: Take a breath and share the news."
+  },
+  {
+    "SNO": 2162393,
+    "FileName": "World_QST_S08_Main_01_Cellar_SorceressHideout",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sayeena's Shop"
+  },
+  {
+    "SNO": 2162393,
+    "FileName": "World_QST_S08_Main_01_Cellar_SorceressHideout",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A shop of curios and trinkets."
+  },
+  {
+    "SNO": 2180459,
+    "FileName": "World_QST_S08_Main_03_Cellar_SorceressHideout",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sayeena's Shop"
+  },
+  {
+    "SNO": 2180459,
+    "FileName": "World_QST_S08_Main_03_Cellar_SorceressHideout",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A shop of curios and trinkets."
+  },
+  {
+    "SNO": 1264233,
+    "FileName": "World_QST_ScholarRevised_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Family Cellar"
+  },
+  {
+    "SNO": 1264233,
+    "FileName": "World_QST_ScholarRevised_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A cellar owned by a local family, long since abandoned."
+  },
+  {
+    "SNO": 1114248,
+    "FileName": "World_QST_Scos_APyreofAsh_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Embered Recess"
+  },
+  {
+    "SNO": 1114248,
+    "FileName": "World_QST_Scos_APyreofAsh_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "An ash-covered cellar carrying the smell of burnt remains."
+  },
+  {
+    "SNO": 1113959,
+    "FileName": "World_QST_Scos_BearofBlackweald_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Seared Hollow"
+  },
+  {
+    "SNO": 1113959,
+    "FileName": "World_QST_Scos_BearofBlackweald_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A torrid cavern etched with fire from the Days of Ash."
+  },
+  {
+    "SNO": 1113403,
+    "FileName": "World_QST_Scos_Downs_EverFaithful_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Abandoned Smuggler's Den"
+  },
+  {
+    "SNO": 1113403,
+    "FileName": "World_QST_Scos_Downs_EverFaithful_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Once a den for bandits, it now houses a far worse threat."
+  },
+  {
+    "SNO": 1113269,
+    "FileName": "World_QST_Scos_LairOfTheDespoiler",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Lair of the Despoiler"
+  },
+  {
+    "SNO": 1113269,
+    "FileName": "World_QST_Scos_LairOfTheDespoiler",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A dark corruption has entered these halls."
+  },
+  {
+    "SNO": 1113921,
+    "FileName": "World_QST_Scos_MitheringDescent",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Mithering Descent"
+  },
+  {
+    "SNO": 1113921,
+    "FileName": "World_QST_Scos_MitheringDescent",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A hidden recess leading to the hair-lined depths."
+  },
+  {
+    "SNO": 1114045,
+    "FileName": "World_QST_Scos_UnholyBloodlines_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Abandoned Barrow"
+  },
+  {
+    "SNO": 1114045,
+    "FileName": "World_QST_Scos_UnholyBloodlines_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Abandoned by the Druids since the time of Astaroth"
+  },
+  {
+    "SNO": 1113827,
+    "FileName": "World_QST_Step_BorzasHideout",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Borza's Hideout"
+  },
+  {
+    "SNO": 1113827,
+    "FileName": "World_QST_Step_BorzasHideout",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Borza, the thief who left Nizaar to die, hides in the caves."
+  },
+  {
+    "SNO": 1113969,
+    "FileName": "World_QST_Step_FiendSoFamiliar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Saraan Caldera"
+  },
+  {
+    "SNO": 1113969,
+    "FileName": "World_QST_Step_FiendSoFamiliar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A curse festers beneath the Ruins of Saraan."
+  },
+  {
+    "SNO": 1113742,
+    "FileName": "World_QST_Step_ForgingTheMaul",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Infected Delve"
+  },
+  {
+    "SNO": 1113742,
+    "FileName": "World_QST_Step_ForgingTheMaul",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "An abandoned mine now festers with maggots and disease."
+  },
+  {
+    "SNO": 1789106,
+    "FileName": "World_QST_ThePitOfAnguish_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Pit of Anguish"
+  },
+  {
+    "SNO": 1789106,
+    "FileName": "World_QST_ThePitOfAnguish_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A stinking pit filled with rotting corpses."
+  },
+  {
+    "SNO": 1439805,
+    "FileName": "World_S01_QST_Frac_Varshan",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Velkhova Church Undercroft"
+  },
+  {
+    "SNO": 1439805,
+    "FileName": "World_S01_QST_Frac_Varshan",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The frozen cellar where Cormond tried to save his mentor."
+  },
+  {
+    "SNO": 1439753,
+    "FileName": "World_S01_QST_Step_BabyVarshan",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Crypts of Orbei"
+  },
+  {
+    "SNO": 1439753,
+    "FileName": "World_S01_QST_Step_BabyVarshan",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The monastery lies in ruin but its lower passages remain."
+  },
+  {
+    "SNO": 1699693,
+    "FileName": "World_S02_EGD_Rift-Vampire_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Abattoir of Zir"
+  },
+  {
+    "SNO": 1699693,
+    "FileName": "World_S02_EGD_Rift-Vampire_01",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A wound within infinite space, all to slake a god's thirst."
+  },
+  {
+    "SNO": 1607816,
+    "FileName": "World_S03_DGN_Frac_Vault",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Vault of Stone"
+  },
+  {
+    "SNO": 1607816,
+    "FileName": "World_S03_DGN_Frac_Vault",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Where the first Governing Stones were carved into shape."
+  },
+  {
+    "SNO": 1607830,
+    "FileName": "World_S03_DGN_Hawe_Vault",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Vault of Ink"
+  },
+  {
+    "SNO": 1607830,
+    "FileName": "World_S03_DGN_Hawe_Vault",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Where a miracle was put to parchment."
+  },
+  {
+    "SNO": 1665976,
+    "FileName": "World_S03_DGN_Hawe_Vault_QST",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Vault of Ink"
+  },
+  {
+    "SNO": 1665976,
+    "FileName": "World_S03_DGN_Hawe_Vault_QST",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Where a miracle was put to parchment."
+  },
+  {
+    "SNO": 1607837,
+    "FileName": "World_S03_DGN_Kehj_InfernalDeviceVault",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Vault of the Loom"
+  },
+  {
+    "SNO": 1607837,
+    "FileName": "World_S03_DGN_Kehj_InfernalDeviceVault",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Where history was made and unmade."
+  },
+  {
+    "SNO": 1758961,
+    "FileName": "World_S03_DGN_Kehj_InfernalDeviceVault_WT4",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Vault of the Loom"
+  },
+  {
+    "SNO": 1758961,
+    "FileName": "World_S03_DGN_Kehj_InfernalDeviceVault_WT4",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Where history was made and unmade."
+  },
+  {
+    "SNO": 1607809,
+    "FileName": "World_S03_DGN_Scos_Vault",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Vault of Copper"
+  },
+  {
+    "SNO": 1607809,
+    "FileName": "World_S03_DGN_Scos_Vault",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Where dead metal assumed a semblance of life."
+  },
+  {
+    "SNO": 1607823,
+    "FileName": "World_S03_DGN_Step_Vault",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Vault of Cinders"
+  },
+  {
+    "SNO": 1607823,
+    "FileName": "World_S03_DGN_Step_Vault",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Where the Loom was cast and forged."
+  },
+  {
+    "SNO": 1699647,
+    "FileName": "World_S03_Hub_DRLG",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "[PH] Hub DRLG"
+  },
+  {
+    "SNO": 1699647,
+    "FileName": "World_S03_Hub_DRLG",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "[PH] quest flavor"
+  },
+  {
+    "SNO": 1601449,
+    "FileName": "World_S03_Hub_TWN",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Gatehall"
+  },
+  {
+    "SNO": 1601449,
+    "FileName": "World_S03_Hub_TWN",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A nexus of portals to distant Vaults."
+  },
+  {
+    "SNO": 1722874,
+    "FileName": "World_S03_Hub_TWN_Private",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Dormant Hall"
+  },
+  {
+    "SNO": 1722874,
+    "FileName": "World_S03_Hub_TWN_Private",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Forgotten, but not abandoned."
+  },
+  {
+    "SNO": 1612270,
+    "FileName": "World_S03_LBD_Dungeon_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Gauntlet"
+  },
+  {
+    "SNO": 1612270,
+    "FileName": "World_S03_LBD_Dungeon_01",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Prove yourself."
+  },
+  {
+    "SNO": 1610444,
+    "FileName": "World_S03_QST_Frac_Vault",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Vault of Stone"
+  },
+  {
+    "SNO": 1610444,
+    "FileName": "World_S03_QST_Frac_Vault",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Where the first Governing Stones were carved into shape."
+  },
+  {
+    "SNO": 1730179,
+    "FileName": "World_S03_QST_Kehj_InfernalDeviceVault",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Vault of the Loom"
+  },
+  {
+    "SNO": 1730179,
+    "FileName": "World_S03_QST_Kehj_InfernalDeviceVault",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Where history was made and unmade."
+  },
+  {
+    "SNO": 1638472,
+    "FileName": "World_S03_QST_Kehj_Library",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Library"
+  },
+  {
+    "SNO": 1638472,
+    "FileName": "World_S03_QST_Kehj_Library",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A place of quiet contemplation and furious debate."
+  },
+  {
+    "SNO": 1781702,
+    "FileName": "World_S04_LBD_Dungeon_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Gauntlet"
+  },
+  {
+    "SNO": 1781702,
+    "FileName": "World_S04_LBD_Dungeon_01",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Prove yourself."
+  },
+  {
+    "SNO": 1785279,
+    "FileName": "World_S04_LBD_Dungeon_07",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Gauntlet"
+  },
+  {
+    "SNO": 1785279,
+    "FileName": "World_S04_LBD_Dungeon_07",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Prove yourself."
+  },
+  {
+    "SNO": 1864636,
+    "FileName": "World_S05_BSK_Prototype02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Infernal Hordes"
+  },
+  {
+    "SNO": 1864636,
+    "FileName": "World_S05_BSK_Prototype02",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Return to Hell. Fight for Sanctuary."
+  },
+  {
+    "SNO": 1873045,
+    "FileName": "World_S05_DGN_Hellar_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Omath Breach"
+  },
+  {
+    "SNO": 1873045,
+    "FileName": "World_S05_DGN_Hellar_01",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Hell rises near Omath's Redoubt, where old Hatred lingers."
+  },
+  {
+    "SNO": 1912791,
+    "FileName": "World_S05_DGN_Hellar_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Civo Breach"
+  },
+  {
+    "SNO": 1912791,
+    "FileName": "World_S05_DGN_Hellar_02",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Triune serve Hell once again in the shadow of the mountain."
+  },
+  {
+    "SNO": 1912834,
+    "FileName": "World_S05_DGN_Hellar_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The D\u00falra Breach"
+  },
+  {
+    "SNO": 1912834,
+    "FileName": "World_S05_DGN_Hellar_03",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Demons pour from the druids' most painful scar."
+  },
+  {
+    "SNO": 1828908,
+    "FileName": "World_S05_QST_Rep_Main_03_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "House of the Family"
+  },
+  {
+    "SNO": 1828908,
+    "FileName": "World_S05_QST_Rep_Main_03_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A dilapidated shack on the outskirts of Zarbinzet."
+  },
+  {
+    "SNO": 1822383,
+    "FileName": "World_S05_Step_Guulrahn_ThroatOfAvarice",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "House of the Family"
+  },
+  {
+    "SNO": 1822383,
+    "FileName": "World_S05_Step_Guulrahn_ThroatOfAvarice",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A dilapidated shack on the outskirts of Zarbinzet."
+  },
+  {
+    "SNO": 2020425,
+    "FileName": "World_S06_Frac_RealmWalkerDungeonOfHatred",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Seething Realm"
+  },
+  {
+    "SNO": 2020425,
+    "FileName": "World_S06_Frac_RealmWalkerDungeonOfHatred",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A minor plane of Hatred opened by a Realmwalker's death."
+  },
+  {
+    "SNO": 2082306,
+    "FileName": "World_S06_Hawe_RealmWalkerDungeonOfHatred",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Seething Realm"
+  },
+  {
+    "SNO": 2082306,
+    "FileName": "World_S06_Hawe_RealmWalkerDungeonOfHatred",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A minor plane of Hatred opened by a Realmwalker's death."
+  },
+  {
+    "SNO": 2082299,
+    "FileName": "World_S06_Kehj_RealmWalkerDungeonOfHatred",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Seething Realm"
+  },
+  {
+    "SNO": 2082299,
+    "FileName": "World_S06_Kehj_RealmWalkerDungeonOfHatred",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A minor plane of Hatred opened by a Realmwalker's death."
+  },
+  {
+    "SNO": 2082313,
+    "FileName": "World_S06_Naha_RealmWalkerDungeonOfHatred",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Seething Realm"
+  },
+  {
+    "SNO": 2082313,
+    "FileName": "World_S06_Naha_RealmWalkerDungeonOfHatred",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A minor plane of Hatred opened by a Realmwalker's death."
+  },
+  {
+    "SNO": 2082265,
+    "FileName": "World_S06_Scos_RealmWalkerDungeonOfHatred",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Seething Realm"
+  },
+  {
+    "SNO": 2082265,
+    "FileName": "World_S06_Scos_RealmWalkerDungeonOfHatred",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A minor plane of Hatred opened by a Realmwalker's death."
+  },
+  {
+    "SNO": 2082292,
+    "FileName": "World_S06_Step_RealmWalkerDungeonOfHatred",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Seething Realm"
+  },
+  {
+    "SNO": 2082292,
+    "FileName": "World_S06_Step_RealmWalkerDungeonOfHatred",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A minor plane of Hatred opened by a Realmwalker's death."
+  },
+  {
+    "SNO": 2121997,
+    "FileName": "World_S07_DGN_Witcher_Frac",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Silent Roothold"
+  },
+  {
+    "SNO": 2121997,
+    "FileName": "World_S07_DGN_Witcher_Frac",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Eerily still, but for the shuffling of dead flesh."
+  },
+  {
+    "SNO": 2122041,
+    "FileName": "World_S07_DGN_Witcher_Kehj",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Blistering Roothold"
+  },
+  {
+    "SNO": 2122041,
+    "FileName": "World_S07_DGN_Witcher_Kehj",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Parched and shriveled earth, drained by unholy rot."
+  },
+  {
+    "SNO": 2122048,
+    "FileName": "World_S07_DGN_Witcher_Naha",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Strangling Roothold"
+  },
+  {
+    "SNO": 2122048,
+    "FileName": "World_S07_DGN_Witcher_Naha",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Home to countless last breaths, squeezed to choking silence."
+  },
+  {
+    "SNO": 2121990,
+    "FileName": "World_S07_DGN_Witcher_Scos",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Bleeding Roothold"
+  },
+  {
+    "SNO": 2121990,
+    "FileName": "World_S07_DGN_Witcher_Scos",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "The rot persists even here, though its roots pay in blood."
+  },
+  {
+    "SNO": 2103033,
+    "FileName": "World_S07_QST_DGN_Main_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Overgrown Tenement"
+  },
+  {
+    "SNO": 2103033,
+    "FileName": "World_S07_QST_DGN_Main_01",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Dilapidated and abandoned, until the rot took root."
+  },
+  {
+    "SNO": 2120526,
+    "FileName": "World_S07_QST_Main_03_TreeOfWhispers",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Coven's Ritual Circle"
+  },
+  {
+    "SNO": 2120526,
+    "FileName": "World_S07_QST_Main_03_TreeOfWhispers",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Where blood is spilt and power won, all in the Tree's name."
+  },
+  {
+    "SNO": 2120533,
+    "FileName": "World_S07_QST_Main_05_TreeOfWhispers",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Coven's Ritual Circle"
+  },
+  {
+    "SNO": 2120533,
+    "FileName": "World_S07_QST_Main_05_TreeOfWhispers",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Where blood is spilt and power won, all in the Tree's name."
+  },
+  {
+    "SNO": 2130411,
+    "FileName": "World_S07_QST_Main_05b_Ouna_Hideout",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ouna's Hideout"
+  },
+  {
+    "SNO": 2130411,
+    "FileName": "World_S07_QST_Main_05b_Ouna_Hideout",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "It was supposed to be her haven."
+  },
+  {
+    "SNO": 2107814,
+    "FileName": "World_S07_QST_Main_06_FinaleCellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hidden Ritual Site"
+  },
+  {
+    "SNO": 2107814,
+    "FileName": "World_S07_QST_Main_06_FinaleCellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A nest born of desperation."
+  },
+  {
+    "SNO": 2235836,
+    "FileName": "World_S08_QST_Boss_Belial",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Palace of the Deceiver"
+  },
+  {
+    "SNO": 2235836,
+    "FileName": "World_S08_QST_Boss_Belial",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "There were glories here once, but now only agonies await."
+  },
+  {
+    "SNO": 2163225,
+    "FileName": "World_S08_QST_Main_01_Tomb",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ice-Rimed Crypt"
+  },
+  {
+    "SNO": 2163225,
+    "FileName": "World_S08_QST_Main_01_Tomb",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A crypt buried in ice, where strange new demons dwell."
+  },
+  {
+    "SNO": 2166017,
+    "FileName": "World_S08_QST_Main_02_Sanctum",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Buried Outpost"
+  },
+  {
+    "SNO": 2166017,
+    "FileName": "World_S08_QST_Main_02_Sanctum",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A once thriving outpost, now buried and forgotten."
+  },
+  {
+    "SNO": 2167100,
+    "FileName": "World_S08_QST_Main_03_BelialLair",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Temple of Belial"
+  },
+  {
+    "SNO": 2167100,
+    "FileName": "World_S08_QST_Main_03_BelialLair",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "A hidden ancient temple, overrun with followers of Belial."
+  },
+  {
+    "SNO": 2179079,
+    "FileName": "World_S08_QST_StartCave",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sayeena's Shop"
+  },
+  {
+    "SNO": 2179079,
+    "FileName": "World_S08_QST_StartCave",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Sayeena studies lost artifacts and scripture here."
+  },
+  {
+    "SNO": 2278704,
+    "FileName": "World_S09_EGB_Astaroth",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Astaroth's Lair"
+  },
+  {
+    "SNO": 2278704,
+    "FileName": "World_S09_EGB_Astaroth",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Den of the Charred Duke."
+  },
+  {
+    "SNO": 2322137,
+    "FileName": "World_S09_Main_04_Scar_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Scar"
+  },
+  {
+    "SNO": 2322137,
+    "FileName": "World_S09_Main_04_Scar_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Sour earth, twisted by Astaroth's sealing."
+  },
+  {
+    "SNO": 2356897,
+    "FileName": "World_S09_QST_Main_01_DemonFake",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Demon's Wake"
+  },
+  {
+    "SNO": 2356897,
+    "FileName": "World_S09_QST_Main_01_DemonFake",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Charred bodies line ashen halls. Even still, Eldhaime burns."
+  },
+  {
+    "SNO": 2322123,
+    "FileName": "World_S09_QST_Main_03_Tur_Dulra",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Oaken Cavern"
+  },
+  {
+    "SNO": 2322123,
+    "FileName": "World_S09_QST_Main_03_Tur_Dulra",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Another pocket of T\u00far D\u00falra, sullied by Astaroth's flames."
+  },
+  {
+    "SNO": 2327198,
+    "FileName": "World_S09_QST_Main_05_HoradricVault",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Horadric Vault"
+  },
+  {
+    "SNO": 2327198,
+    "FileName": "World_S09_QST_Main_05_HoradricVault",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Answers will be given, though you may not wish to hear them."
+  },
+  {
+    "SNO": 2330049,
+    "FileName": "World_S09_QST_Main_06_Astaroth_Lair_Temp",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Astaroth's Lair"
+  },
+  {
+    "SNO": 2330049,
+    "FileName": "World_S09_QST_Main_06_Astaroth_Lair_Temp",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Den of the Charred Duke."
+  },
+  {
+    "SNO": 2263583,
+    "FileName": "World_S09_QST_Main_06_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Abandoned Alcove"
+  },
+  {
+    "SNO": 2263583,
+    "FileName": "World_S09_QST_Main_06_Cellar",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Rotting grandiosity, sand scoured and forgotten."
+  },
+  {
+    "SNO": 2327207,
+    "FileName": "World_S09_QST_Scos_DemonsWake",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Demon's Wake"
+  },
+  {
+    "SNO": 2327207,
+    "FileName": "World_S09_QST_Scos_DemonsWake",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Charred bodies line ashen halls. Even still, Eldhaime burns."
+  },
+  {
+    "SNO": 1461555,
+    "FileName": "World_S2_DGN_Frac_VampireBossDungeon",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "City of the Ancients"
+  },
+  {
+    "SNO": 1461555,
+    "FileName": "World_S2_DGN_Frac_VampireBossDungeon",
+    "Index": 1,
+    "KeyHash": 3707583,
+    "Key": "Desc",
+    "Translation": "Power stirs in this place. And in you."
+  },
+  {
+    "SNO": 2246167,
+    "FileName": "World_SEC_Multiroom_Template_EncounterName",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Horadric Strongroom"
+  },
+  {
+    "SNO": 1970554,
+    "FileName": "World_SMP_Scos_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Bottom of the Well"
+  },
+  {
+    "SNO": 1113202,
+    "FileName": "World_Sanctuary_Eastern_Continent",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sanctuary: Estuar"
+  },
+  {
+    "SNO": 1680328,
+    "FileName": "World_World_TrainingGrounds",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Training Grounds"
+  },
+  {
+    "SNO": 1702508,
+    "FileName": "World_World_TrainingGrounds_Naha",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Training Grounds"
+  },
+  {
+    "SNO": 1435222,
+    "FileName": "World_X1R_Khazra_Hub_KeyRoom",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Dark Citadel"
+  },
+  {
+    "SNO": 1438924,
+    "FileName": "World_X1R_Naha_AlphaWing",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Enclave of Strife"
+  },
+  {
+    "SNO": 1457724,
+    "FileName": "World_X1R_Naha_BetaWing",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Labyrinth of Souls"
+  },
+  {
+    "SNO": 1438671,
+    "FileName": "World_X1R_Naha_OmegaWing",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Dominion of Zagraal"
+  },
+  {
+    "SNO": 1877411,
+    "FileName": "World_X1_Undercity_BugCave_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kurast Undercity"
+  },
+  {
+    "SNO": 1877422,
+    "FileName": "World_X1_Undercity_BugCave_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kurast Undercity"
+  },
+  {
+    "SNO": 1877429,
+    "FileName": "World_X1_Undercity_BugCave_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kurast Undercity"
+  },
+  {
+    "SNO": 2040852,
+    "FileName": "World_X1_Undercity_QST_PQ_01_Cellar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Abandoned Home"
+  },
+  {
+    "SNO": 2044795,
+    "FileName": "World_X1_Undercity_QST_PQ_Sanctum",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Spiritborn Sanctum"
+  },
+  {
+    "SNO": 2024544,
+    "FileName": "World_X1_Undercity_QST_PlayerQuest_00_Zig",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Undercity"
+  },
+  {
+    "SNO": 2043673,
+    "FileName": "World_X1_Undercity_QST_PlayerQuest_02_Snake",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ennead's Folly"
+  },
+  {
+    "SNO": 2061554,
+    "FileName": "World_X1_Undercity_SnakeTemple_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kurast Undercity"
+  },
+  {
+    "SNO": 2061561,
+    "FileName": "World_X1_Undercity_SnakeTemple_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kurast Undercity"
+  },
+  {
+    "SNO": 2086293,
+    "FileName": "World_X1_Undercity_SnakeTemple_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kurast Undercity"
+  },
+  {
+    "SNO": 2061530,
+    "FileName": "World_X1_Undercity_Ziggurat_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kurast Undercity"
+  },
+  {
+    "SNO": 2061544,
+    "FileName": "World_X1_Undercity_Ziggurat_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kurast Undercity"
+  },
+  {
+    "SNO": 2086305,
+    "FileName": "World_X1_Undercity_Ziggurat_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kurast Undercity"
+  }
+]

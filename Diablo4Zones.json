@@ -1,0 +1,82 @@
+[
+  {
+    "SNO": 1841726,
+    "FileName": "Zone_Dry_Steppes",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Dry Steppes"
+  },
+  {
+    "SNO": 1841727,
+    "FileName": "Zone_Fractured_Peaks",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Fractured Peaks"
+  },
+  {
+    "SNO": 1841730,
+    "FileName": "Zone_Hawezar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hawezar"
+  },
+  {
+    "SNO": 1841725,
+    "FileName": "Zone_Hell",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Burning Hells"
+  },
+  {
+    "SNO": 1841728,
+    "FileName": "Zone_Kehjistan",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kehjistan"
+  },
+  {
+    "SNO": 1919751,
+    "FileName": "Zone_Nahantu",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Nahantu"
+  },
+  {
+    "SNO": 1841724,
+    "FileName": "Zone_S03_Hub",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Gatehall"
+  },
+  {
+    "SNO": 1841722,
+    "FileName": "Zone_Scosglen",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Scosglen"
+  },
+  {
+    "SNO": 1841729,
+    "FileName": "Zone_Teganze_Plains",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Teganze Plains"
+  },
+  {
+    "SNO": 1898382,
+    "FileName": "Zone_X1R_Raid_Hub",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Dark Citadel"
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "SNO": 1101531,
+    "FileName": "Territory_Frac_GaleValley",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Gale Valley"
+  },
+  {
+    "SNO": 1101532,
+    "FileName": "Territory_Frac_Glacier",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Seat of the Heavens"
+  },
+  {
+    "SNO": 1237630,
+    "FileName": "Territory_Frac_KorDragan",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kor Dragan"
+  },
+  {
+    "SNO": 1237642,
+    "FileName": "Territory_Frac_KorValar",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kor Valar"
+  },
+  {
+    "SNO": 1237645,
+    "FileName": "Territory_Frac_Malnok",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Malnok"
+  },
+  {
+    "SNO": 1237647,
+    "FileName": "Territory_Frac_Nostrava",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Nostrava"
+  },
+  {
+    "SNO": 1101533,
+    "FileName": "Territory_Frac_Taiga_Central",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Desolate Highlands"
+  },
+  {
+    "SNO": 1101534,
+    "FileName": "Territory_Frac_Taiga_E",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Dobrev Taiga"
+  },
+  {
+    "SNO": 1101535,
+    "FileName": "Territory_Frac_Taiga_W",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Pallid Glade"
+  },
+  {
+    "SNO": 1101536,
+    "FileName": "Territory_Frac_Tundra_N",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Frigid Expanse"
+  },
+  {
+    "SNO": 1101537,
+    "FileName": "Territory_Frac_Tundra_S",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Sarkova Pass"
+  },
+  {
+    "SNO": 1101538,
+    "FileName": "Territory_Frac_Underworld",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Path of the Firstborn"
+  },
+  {
+    "SNO": 1237649,
+    "FileName": "Territory_Frac_WorldBoss",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Crucible"
+  },
+  {
+    "SNO": 1101539,
+    "FileName": "Territory_Hawe_Bog",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Writhing Mire"
+  },
+  {
+    "SNO": 1237650,
+    "FileName": "Territory_Hawe_Camp_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Crusaders' Monument"
+  },
+  {
+    "SNO": 1101540,
+    "FileName": "Territory_Hawe_Coast",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Forsaken Coast"
+  },
+  {
+    "SNO": 1101541,
+    "FileName": "Territory_Hawe_Crossway",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Umir Plateau"
+  },
+  {
+    "SNO": 1101542,
+    "FileName": "Territory_Hawe_Delta",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Rotspill Delta"
+  },
+  {
+    "SNO": 1101543,
+    "FileName": "Territory_Hawe_Fens",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Toxic Fens"
+  },
+  {
+    "SNO": 1237652,
+    "FileName": "Territory_Hawe_KeironsPyre",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Eriman's Pyre"
+  },
+  {
+    "SNO": 1101544,
+    "FileName": "Territory_Hawe_Marsh",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Blightmarsh"
+  },
+  {
+    "SNO": 1237654,
+    "FileName": "Territory_Hawe_SnakeCultist",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Vyeresz"
+  },
+  {
+    "SNO": 1101545,
+    "FileName": "Territory_Hawe_Verge",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Dismal Foothills"
+  },
+  {
+    "SNO": 1101546,
+    "FileName": "Territory_Hawe_Wetland",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Fethis Wetlands"
+  },
+  {
+    "SNO": 1237656,
+    "FileName": "Territory_Hawe_WorldEvent_02",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Haunted Wreckage"
+  },
+  {
+    "SNO": 1237658,
+    "FileName": "Territory_Hawe_WorldEvent_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Fields of Desecration"
+  },
+  {
+    "SNO": 1407131,
+    "FileName": "Territory_Hawe_ZakFort",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ruins of Rakhat Keep"
+  },
+  {
+    "SNO": 1237660,
+    "FileName": "Territory_Kehj_Alcarnus",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Alcarnus"
+  },
+  {
+    "SNO": 1237662,
+    "FileName": "Territory_Kehj_AltarOfRuin",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Altar of Ruin"
+  },
+  {
+    "SNO": 1237663,
+    "FileName": "Territory_Kehj_CMP_Omaths",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Omath's Redoubt"
+  },
+  {
+    "SNO": 1101547,
+    "FileName": "Territory_Kehj_Caldeum",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Caldeum"
+  },
+  {
+    "SNO": 1101549,
+    "FileName": "Territory_Kehj_Hell",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Realm of Hatred"
+  },
+  {
+    "SNO": 1101550,
+    "FileName": "Territory_Kehj_HighDesert",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Amber Sands"
+  },
+  {
+    "SNO": 1101552,
+    "FileName": "Territory_Kehj_LowDesert",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Southern Expanse"
+  },
+  {
+    "SNO": 1101553,
+    "FileName": "Territory_Kehj_Oasis",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ragged Coastline"
+  },
+  {
+    "SNO": 1101555,
+    "FileName": "Territory_Kehj_PvP",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Fields of Hatred"
+  },
+  {
+    "SNO": 1101554,
+    "FileName": "Territory_Kehj_Ridge",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Scouring Sands"
+  },
+  {
+    "SNO": 1237666,
+    "FileName": "Territory_Kehj_WorldEvent_01",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Seared Basin"
+  },
+  {
+    "SNO": 1237668,
+    "FileName": "Territory_Kehj_WorldEvent_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Dilapidated Aqueducts"
+  },
+  {
+    "SNO": 1661135,
+    "FileName": "Territory_Naha_CMP_Chakhir",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Chakhir"
+  },
+  {
+    "SNO": 1582048,
+    "FileName": "Territory_Naha_CMP_GatesOfTheNecropolis",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Festering Dark"
+  },
+  {
+    "SNO": 1578183,
+    "FileName": "Territory_Naha_CMP_Kichuk",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kichuk"
+  },
+  {
+    "SNO": 1583865,
+    "FileName": "Territory_Naha_Crater",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Viz-jun Crater"
+  },
+  {
+    "SNO": 1583886,
+    "FileName": "Territory_Naha_CraterEvent",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Viz-jun"
+  },
+  {
+    "SNO": 1476075,
+    "FileName": "Territory_Naha_FieldOfGiants",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Field of Giants"
+  },
+  {
+    "SNO": 1476994,
+    "FileName": "Territory_Naha_FiveHills",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Five Hills"
+  },
+  {
+    "SNO": 1382303,
+    "FileName": "Territory_Naha_Kurast",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kurast"
+  },
+  {
+    "SNO": 1382309,
+    "FileName": "Territory_Naha_LingeringHatred",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Lingering Hatred"
+  },
+  {
+    "SNO": 2083581,
+    "FileName": "Territory_Naha_MercHideout",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Den"
+  },
+  {
+    "SNO": 1382305,
+    "FileName": "Territory_Naha_RestlessCanopy",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Restless Canopy"
+  },
+  {
+    "SNO": 1382307,
+    "FileName": "Territory_Naha_SevenStones",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Seven Stones"
+  },
+  {
+    "SNO": 1476071,
+    "FileName": "Territory_Naha_TeganzePlateau",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Teganze Plateau"
+  },
+  {
+    "SNO": 1630768,
+    "FileName": "Territory_Naha_WorldBoss",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Cauldron"
+  },
+  {
+    "SNO": 1602877,
+    "FileName": "Territory_S03_Hub_TWN",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Gatehall"
+  },
+  {
+    "SNO": 1237672,
+    "FileName": "Territory_Scos_CMP_HopesLight",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Hope's Light"
+  },
+  {
+    "SNO": 1237674,
+    "FileName": "Territory_Scos_CMP_MoordaineLodge",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Moordaine Lodge"
+  },
+  {
+    "SNO": 1237676,
+    "FileName": "Territory_Scos_CMP_TurDulra",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "T\u00far D\u00falra"
+  },
+  {
+    "SNO": 1237678,
+    "FileName": "Territory_Scos_LochRaeth_WorldBoss",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Caen Adar"
+  },
+  {
+    "SNO": 1237680,
+    "FileName": "Territory_Scos_WorldEvent_03",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Carrowcrest Ruins"
+  },
+  {
+    "SNO": 1101559,
+    "FileName": "Territory_Scosglen_Coast",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Northshore"
+  },
+  {
+    "SNO": 1101560,
+    "FileName": "Territory_Scosglen_Deep_Forest",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Deep Forest"
+  },
+  {
+    "SNO": 1101561,
+    "FileName": "Territory_Scosglen_Downs",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Downs"
+  },
+  {
+    "SNO": 1248409,
+    "FileName": "Territory_Scosglen_Estate",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Firebreak Manor"
+  },
+  {
+    "SNO": 1101562,
+    "FileName": "Territory_Scosglen_High_Forest",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Emerald Chase"
+  },
+  {
+    "SNO": 1101563,
+    "FileName": "Territory_Scosglen_Highlands",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Highland Wilds"
+  },
+  {
+    "SNO": 1101564,
+    "FileName": "Territory_Scosglen_Hills",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Wailing Hills"
+  },
+  {
+    "SNO": 1101565,
+    "FileName": "Territory_Scosglen_LochRaeth",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Strand"
+  },
+  {
+    "SNO": 1101566,
+    "FileName": "Territory_Scosglen_Lowlands",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Westering Lowlands"
+  },
+  {
+    "SNO": 1101567,
+    "FileName": "Territory_Scosglen_Moors",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Shrouded Moors"
+  },
+  {
+    "SNO": 1101568,
+    "FileName": "Territory_Step_Basin",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Jakha Basin"
+  },
+  {
+    "SNO": 1101569,
+    "FileName": "Territory_Step_Central",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Khargai Crags"
+  },
+  {
+    "SNO": 1247021,
+    "FileName": "Territory_Step_CentralCanyon",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Tusmaa Rift"
+  },
+  {
+    "SNO": 1101570,
+    "FileName": "Territory_Step_Coast",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Scarred Coast"
+  },
+  {
+    "SNO": 1101571,
+    "FileName": "Territory_Step_Eastern",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Accursed Wastes"
+  },
+  {
+    "SNO": 1101572,
+    "FileName": "Territory_Step_Grassland",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Kotama Grasslands"
+  },
+  {
+    "SNO": 1237681,
+    "FileName": "Territory_Step_OnyxWatchtower",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "The Onyx Watchtower"
+  },
+  {
+    "SNO": 1101573,
+    "FileName": "Territory_Step_PvP",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Fields of Hatred"
+  },
+  {
+    "SNO": 1237683,
+    "FileName": "Territory_Step_QaraYisu",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Qara Yisu"
+  },
+  {
+    "SNO": 1101574,
+    "FileName": "Territory_Step_South",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Untamed Scarps"
+  },
+  {
+    "SNO": 1237682,
+    "FileName": "Territory_Step_TempleOfRot",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Temple of Rot"
+  },
+  {
+    "SNO": 1101575,
+    "FileName": "Territory_Step_Volcano",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Chambatar Ridge"
+  },
+  {
+    "SNO": 1101576,
+    "FileName": "Territory_Step_WesternFlats",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Dindai Flats"
+  },
+  {
+    "SNO": 1237735,
+    "FileName": "Territory_Step_WorldBoss",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Saraan Caldera"
+  },
+  {
+    "SNO": 1237734,
+    "FileName": "Territory_Step_ZoneEvent",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Norgoi Vigil"
+  },
+  {
+    "SNO": 2008224,
+    "FileName": "Territory_X1_Raid_Hub",
+    "Index": 0,
+    "KeyHash": 4062401,
+    "Key": "Name",
+    "Translation": "Ancient Nexus"
+  }
+]
